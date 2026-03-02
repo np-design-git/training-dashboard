@@ -72,7 +72,7 @@ NOTES: Front squat 3×12 confirmed at 23kg — ready for 25kg next session. RDL 
 
 DATE: 27.02.2026
 SESSION: Skate
-OURA: unknown | CYCLE DAY: unknown
+OURA: 78 | CYCLE DAY: unknown
 
 DURATION: 1h 01min 
 CONDITIONS: unknown
@@ -88,7 +88,7 @@ NOTES: Session split into two blocks ~90min apart (18:35 and 20:04). Block 1 pre
 
 DATE: 26.02.2026
 SESSION: Surf
-OURA: unknown | CYCLE DAY: unknown
+OURA: 84 | CYCLE DAY: unknown
 
 DURATION: 1h
 CONDITIONS: unknown
@@ -105,7 +105,7 @@ NOTES: Lower calorie burn vs 20.02 surf (189 vs 378 kcal) — shorter session or
 
 DATE: 25.02.2026
 SESSION: Interval Bike
-OURA: not recorded | CYCLE DAY: 24
+OURA: 88 | CYCLE DAY: 24
 
 TYPE: Structured Intervals
 DURATION: 1:16:00
@@ -128,7 +128,7 @@ NOTES: Increased Z5 time vs 10.02. Recovery strong throughout. Consolidation blo
 ---
 DATE: 23.02.2026
 SESSION: Upper Body
-OURA: not recorded | CYCLE DAY: 22
+OURA: 84 | CYCLE DAY: 22
 
 BLOCK 1
 Seated Cable Row: 1×10 @ 30kg, 3×10 @ 32.5kg — stable trunk, controlled
@@ -151,7 +151,7 @@ NOTES: Major milestone — first strict pull-up. Row consolidated at 32.5kg. OHP
 
 DATE: 22.02.2026
 SESSION: Skate
-OURA: unknown | CYCLE DAY: unknown
+OURA: 88 | CYCLE DAY: unknown
 
 DURATION: 1h 18min
 CONDITIONS: unknown
@@ -168,7 +168,7 @@ NOTES: Predominantly Zone 2. Good aerobic stimulus without high strain. Second s
 
 DATE: 21.02.2026
 SESSION: Skate
-OURA: unknown | CYCLE DAY: unknown
+OURA: 82 | CYCLE DAY: unknown
 
 DURATION: 55min 59s
 CONDITIONS: unknown
@@ -185,7 +185,7 @@ NOTES: Predominantly Zone 2. Lower Z1 time and higher Z2 vs Sunday session — s
 
 DATE: 20.02.2026
 SESSION: Surf
-OURA: unknown | CYCLE DAY: unknown
+OURA: 82 | CYCLE DAY: unknown
 
 DURATION: 2h
 CONDITIONS: unknown
@@ -202,7 +202,7 @@ NOTES: Surf counted toward weekly volume cap. Two skate sessions followed on Sat
 
 DATE: 19.02.2026
 SESSION: Long Steady Bike
-OURA: not recorded | CYCLE DAY: 18
+OURA: 85 | CYCLE DAY: 18
 
 TYPE: Steady Z3
 DURATION: 1:30:00
@@ -219,7 +219,7 @@ NOTES: Avg HR dropped from 140 (14.02) to 138 — aerobic efficiency improving. 
 
 DATE: 18.02.2026
 SESSION: Lower Body I
-OURA: not recorded | CYCLE DAY: 17
+OURA: 88 | CYCLE DAY: 17
 SURF/SKATE THIS WEEK SO FAR: 0
 
 BLOCK 1
@@ -242,7 +242,7 @@ DURATION: not tracked
 
 DATE: 17.02.2026
 SESSION: Upper Body
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 90 | CYCLE DAY: not recorded
 PHASE: Week 15 Post-OP
 BLOCK 1 — Pull + Push (4 sets)
 Seated Rows: 4×14 @ 27.5kg — 14-rep threshold reached, ready for weight increase
@@ -262,7 +262,7 @@ NOTES: All three exercises hit 14-rep threshold this session. Row, OHP, and side
 
 DATE: 15.02.2026
 SESSION: Upper Body
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 85 | CYCLE DAY: not recorded
 PHASE: Week 15 Post-OP
 BLOCK 1 — Pull + Push (4 sets)
 Seated Rows: 4×14 @ 27.5kg — reached 14-rep threshold, next step = weight increase
@@ -280,7 +280,7 @@ NOTES: Rows at 27.5kg hitting 14 reps — weight increase due next session. Push
 
 DATE: 14.02.2026
 SESSION: Long Steady Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 88 | CYCLE DAY: not recorded
 TYPE: Steady Z3
 DURATION: 1:30:01 active / 1:30:46 total
 AVG HR: 140 bpm | PEAK HR: not recorded
@@ -295,7 +295,7 @@ NOTES: Controlled, sustainable effort throughout. Less Zone 4 than 07.02. Aerobi
 
 DATE: 11.02.2026
 SESSION: Lower Body II
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 91 | CYCLE DAY: not recorded
 PHASE: Week 15 Post-OP
 BLOCK 1 — Squat + Split
 Front Squat + miniband: 3×10 @ 20kg — heavy but not at limit, stable trunk
@@ -316,7 +316,7 @@ NOTES: Front squat 20kg established as controlled working weight. RDL working we
 
 DATE: 10.02.2026
 SESSION: Interval Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 79 | CYCLE DAY: not recorded
 TYPE: Structured Intervals + VO2 Finisher
 DURATION: 1:00:00
 AVG HR: 147 bpm | PEAK HR: ~173 bpm
@@ -333,7 +333,7 @@ NOTES: Extended 8-min intervals vs previous sessions. Peak HR highest to date. H
 
 DATE: 07.02.2026
 SESSION: Long Steady Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 92 | CYCLE DAY: not recorded
 TYPE: Steady Z3/Z4
 DURATION: 1:25:00
 AVG HR: 147 bpm | PEAK HR: not recorded
@@ -347,7 +347,7 @@ NOTES: Longest post-OP steady ride at this point. Higher avg HR vs 21.01 (134→
 
 DATE: 06.02.2026
 SESSION: Lower Body + Stability
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 89 | CYCLE DAY: not recorded
 PHASE: Week 14 Post-OP
 BLOCK 1 — 5 sets
 Medial Traction Squats: 5×12 @ ~12kg — controlled, stable knee tracking
@@ -368,7 +368,7 @@ NOTES: Volume at 5 sets tolerated. Core anti-rotation work progressing. Bird Dog
 
 DATE: 04.02.2026
 SESSION: Interval Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 85 | CYCLE DAY: not recorded
 TYPE: Structured Intervals
 DURATION: 50:02
 AVG HR: 142 bpm | PEAK HR: >160 bpm
@@ -406,7 +406,7 @@ NOTES: Rows progressed to 25kg. OHP to 5kg. Side bends to 12kg. Push-ups close t
 
 DATE: 01.02.2026
 SESSION: Long Steady Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 67 | CYCLE DAY: not recorded
 TYPE: Steady Z3/Z4
 DURATION: ~85 min total (~10 min warm-up + 75 min steady)
 AVG HR: predominantly upper Z3 / lower Z4
@@ -420,7 +420,7 @@ NOTES: Aerobic session extended to ~75 min sustained. Controlled and conversatio
 
 DATE: 31.01.2026
 SESSION: Lower Body + Core
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 76 | CYCLE DAY: not recorded
 PHASE: Week 13 Post-OP — Lombok
 BLOCK 1 — 5 sets
 Squats with arms extended: 5×16 @ 3kg/hand — controlled, upright torso
@@ -439,7 +439,7 @@ NOTES: Heat influenced cardiovascular strain. No abdominal or scar symptoms. Uni
 
 DATE: 26.01.2026
 SESSION: Interval Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 77 | CYCLE DAY: not recorded
 TYPE: Structured Intervals
 DURATION: 44:00 active / 44:14 total
 AVG HR: 148 bpm | PEAK HR: ~160–165 bpm
@@ -457,7 +457,7 @@ NOTES: Avg power slightly increased vs 17.01 (117→119W). Recovery strong. No r
 
 DATE: 21.01.2026
 SESSION: Long Steady Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 84 | CYCLE DAY: not recorded
 TYPE: Steady Z3 (slight leg pre-fatigue from previous day)
 DURATION: 80 min
 AVG HR: 134 bpm | AVG POWER: 114 W
@@ -471,7 +471,7 @@ NOTES: Extended aerobic duration successfully tolerated. Good HR control despite
 
 DATE: 20.01.2026
 SESSION: Upper Body
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 90 | CYCLE DAY: not recorded
 PHASE: Week 11 Post-OP
 BLOCK 1 — 5 sets
 Seated Rows: 5×12 @ 20kg — controlled, clean (progressed from 18kg)
@@ -493,7 +493,7 @@ NOTES: Rows progressed to 20kg. Approaching stricter push-up volume. Core tolera
 
 DATE: 17.01.2026
 SESSION: Interval Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 80 | CYCLE DAY: not recorded
 TYPE: Structured Intervals
 DURATION: 1:16:00
 AVG HR: 149 bpm | PEAK HR: ~172 bpm
@@ -512,7 +512,7 @@ NOTES: Increased Zone 5 exposure. Recovery remained strong. Reference interval s
 
 DATE: 15.01.2026
 SESSION: Upper Body
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 90 | CYCLE DAY: not recorded
 PHASE: Week 11 Post-OP
 BLOCK 1 — 5 sets
 Seated Rows: 5×12 @ 24kg — controlled, clean
@@ -531,7 +531,7 @@ NOTES: Rows stable at 24kg. Push-ups approaching progression threshold. Overhead
 
 DATE: 14.01.2026
 SESSION: Long Steady Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 81 | CYCLE DAY: not recorded
 TYPE: Steady Z3
 DURATION: 1:15:01 active
 AVG HR: 142 bpm
@@ -545,7 +545,7 @@ NOTES: Longest steady ride since OP at this point. Zone 3 confirmed safe for ext
 
 DATE: 09.01.2026
 SESSION: Interval Bike
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 79 | CYCLE DAY: not recorded
 TYPE: Structured Intervals
 DURATION: 45:04
 AVG HR: not documented | PEAK HR: ~165 bpm
@@ -561,7 +561,7 @@ NOTES: First interval session in this post-OP phase. HR into Zone 4 during work 
 
 DATE: 08.01.2026
 SESSION: Upper Body
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 95 | CYCLE DAY: not recorded
 PHASE: Week 10 Post-OP
 BLOCK 1 — 5 sets
 Seated Rows: 5×14 @ 18kg — controlled, clean, no trunk instability
@@ -595,7 +595,7 @@ NOTES: Higher avg HR vs 02.01 (136→150 bpm). Cardiovascular system tolerating 
 
 DATE: 05.01.2026
 SESSION: Lower Body + Core Stability
-OURA: not recorded | CYCLE DAY: not recorded
+OURA: 88 | CYCLE DAY: not recorded
 PHASE: Week 10 Post-OP
 BLOCK A — 5 sets
 Banded Squats + Arm Raise: 5×14 @ 2kg/hand — controlled descent, upright torso
