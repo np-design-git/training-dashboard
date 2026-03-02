@@ -37,7 +37,7 @@ NOTES: No training. Mandatory rest. Next session pending Oura recovery above 65.
 ---
 DATE: 01.03.2026
 SESSION: Lower Body II
-OURA: 68 | CYCLE DAY: 28
+OURA: 85 | CYCLE DAY: 28
 SURF/SKATE THIS WEEK SO FAR: 0
 
 BLOCK 1
