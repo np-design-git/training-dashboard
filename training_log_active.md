@@ -70,7 +70,39 @@ FLAGS: none
 NOTES: Front squat 3×12 confirmed at 23kg — ready for 25kg next session. RDL working weight confirmed 35kg. Hip Thrust working weight confirmed 25kg. Strong session, late luteal day 28.
 ---
 
+DATE: 27.02.2026
+SESSION: Skate
+OURA: unknown | CYCLE DAY: unknown
+
+DURATION: 1h 01min 
+CONDITIONS: unknown
+INTENSITY: easy–moderate
+
+AVG HR: 93 / 109 bpm | PEAK HR: 113 / 122 bpm
+ZONE SPLIT : Z0: 11min | Z1: 31min | Z2: 19min
+ACTIVE CALORIES: 196 kcal 
+
+FLAGS: none
+NOTES: Session split into two blocks ~90min apart (18:35 and 20:04). Block 1 predominantly Z1 — easy, low intensity. Block 2 stepped up to Z2 dominant. Combined effort moderate. Day after surf (26.02) — surf + skate on consecutive days this week.
 ---
+
+DATE: 26.02.2026
+SESSION: Surf
+OURA: unknown | CYCLE DAY: unknown
+
+DURATION: 1h
+CONDITIONS: unknown
+INTENSITY: moderate
+POP-UP QUALITY: unknown
+
+AVG HR: not recorded
+ACTIVE CALORIES: 189 kcal
+WEEKLY ACTIVITY TIME (as of this day): 7h 45min
+
+FLAGS: none
+NOTES: Lower calorie burn vs 20.02 surf (189 vs 378 kcal) — shorter session or easier conditions. Week of 23.02 included interval bike (25.02) + upper body (23.02) + this surf. Weekly surf/skate count: 1 this week.
+---
+
 DATE: 25.02.2026
 SESSION: Interval Bike
 OURA: not recorded | CYCLE DAY: 24
@@ -117,7 +149,57 @@ FLAGS: none
 NOTES: Major milestone — first strict pull-up. Row consolidated at 32.5kg. OHP trial at 7.5kg — next session start here at 8 reps.
 ---
 
+DATE: 22.02.2026
+SESSION: Skate
+OURA: unknown | CYCLE DAY: unknown
+
+DURATION: 1h 18min
+CONDITIONS: unknown
+INTENSITY: moderate
+POP-UP QUALITY: n/a
+
+AVG HR: 119 bpm | PEAK HR: 142 bpm
+ZONE SPLIT: Z0: 1min | Z1: 10min | Z2: ~48min+
+ACTIVE CALORIES: 337 kcal
+
+FLAGS: none
+NOTES: Predominantly Zone 2. Good aerobic stimulus without high strain. Second skate session in two days.
 ---
+
+DATE: 21.02.2026
+SESSION: Skate
+OURA: unknown | CYCLE DAY: unknown
+
+DURATION: 55min 59s
+CONDITIONS: unknown
+INTENSITY: moderate
+POP-UP QUALITY: n/a
+
+AVG HR: 118 bpm | PEAK HR: 149 bpm
+ZONE SPLIT: Z0: 1min | Z1: 21min | Z2: ~27min+
+ACTIVE CALORIES: 320 kcal
+
+FLAGS: none
+NOTES: Predominantly Zone 2. Lower Z1 time and higher Z2 vs Sunday session — slightly more sustained effort.
+---
+
+DATE: 20.02.2026
+SESSION: Surf
+OURA: unknown | CYCLE DAY: unknown
+
+DURATION: 2h
+CONDITIONS: unknown
+INTENSITY: moderate
+POP-UP QUALITY: unknown
+
+AVG HR: not recorded
+ACTIVE CALORIES: 378 kcal
+WEEKLY ACTIVITY TIME (as of this day): 11h 44min
+
+FLAGS: none
+NOTES: Surf counted toward weekly volume cap. Two skate sessions followed on Sat/Sun — surf + 2x skate in 3 days is at or above the weekly surf/skate ceiling. Strength sessions this week should be monitored for leg fatigue.
+---
+
 DATE: 19.02.2026
 SESSION: Long Steady Bike
 OURA: not recorded | CYCLE DAY: 18
