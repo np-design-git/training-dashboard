@@ -33,6 +33,24 @@
 ## ENTRIES — NEWEST FIRST
 
 ---
+DATE: 03.03.2026
+SESSION: Long Steady Bike
+OURA: 82 | CYCLE DAY: 30
+
+TYPE: Steady Z2–Z3 (recovery ride)
+DURATION: 1:00:00
+AVG HR: 127 bpm | PEAK HR: ~141 bpm
+
+ZONE SPLIT:
+Z1: 0min | Z2: 20min | Z3: 32min | Z4: 0min | Z5: 0min
+(6min no HR data)
+
+ACTIVE CALORIES: 213 kcal
+RPE: 4–5
+FLAGS: none
+NOTES: Intentional recovery ride post-illness and post-LB II soreness. HR deliberately kept low — avg 127 bpm, predominantly Z2/Z3, zero Z4/Z5. Appropriate response to accumulated fatigue. Legs stiff going in, better coming out.
+---
+
 DATE: 02.03.2026
 TYPE: Rest day
 OURA: 55 | CYCLE DAY: 29
