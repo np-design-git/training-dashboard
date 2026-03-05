@@ -56,6 +56,22 @@ FLAGS: back stiffness (CD2, menstruation), low energy — autoregulated RPE ceil
 NOTES: CD2 — kept RPE at 7 as prescribed. Close grip row harder than standard, consolidated at 32.5kg. OHP first full 3×10 session at 7.5kg — next session stay at 7.5kg, build to 12 reps before increasing weight. Strict pull-up technique needs work — accumulating reps over time. Farmer's walk good core substitute with back stiffness. Solid session given CD2 context.
 ---
 
+DATE: 04.03.2026
+SESSION: Surf
+OURA: 83 | CYCLE DAY: 31
+
+DURATION: 2h
+CONDITIONS: unknown
+INTENSITY: moderate
+POP-UP QUALITY: unknown
+
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: First surf session this week. Surf/skate count this week: 1.
+---
+
 DATE: 03.03.2026
 SESSION: Long Steady Bike
 OURA: 82 | CYCLE DAY: 30
