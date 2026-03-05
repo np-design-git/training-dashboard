@@ -12,6 +12,7 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 05.03.2026 | — | — | — | — | — | — | 7.5kg×10 | 32.5kg×10 | 1 strict | 7 |
 | 01.03.2026 | — | — | 23kg×12 | 8kg×12 | 35kg×10 | 25kg×14 | — | — | — | 7–8 |
 | 23.02.2026 | — | — | — | — | — | — | 7.5kg×10 (trial) | 32.5kg×10 | 1 strict | 8 |
 | 18.02.2026 | 30kg×12 | 12kg×12 | — | — | — | — | — | — | — | 7 |
@@ -31,8 +32,30 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
-
 ---
+DATE: 05.03.2026
+SESSION: Upper Body
+OURA: 85 | CYCLE DAY: 2
+SURF/SKATE THIS WEEK SO FAR: 1 (surf 04.03)
+
+BLOCK 1
+Seated Cable Row (close grip): 1×8 @ 30kg (warm-up), 3×10 @ 32.5kg — close grip, slightly harder than standard
+Push-ups: 3×10 @ BW strict
+
+BLOCK 2
+One-Arm OHP: 1×10 @ 5kg (warm-up), 3×10 @ 7.5kg — first full working sets at this weight
+Assisted Pull-ups (medium band): 2×4, 2×5 — autoregulated up on sets 3–4
+Strict Pull-up: 1×1 @ BW — technique still developing
+
+CORE BLOCK
+Farmer's Walk: 1×25m @ 12kg/side, 3×25m @ 16kg/side — substituted for plank due to back stiffness CD2
+
+RPE: 7
+DURATION: ~50 min
+FLAGS: back stiffness (CD2, menstruation), low energy — autoregulated RPE ceiling accordingly
+NOTES: CD2 — kept RPE at 7 as prescribed. Close grip row harder than standard, consolidated at 32.5kg. OHP first full 3×10 session at 7.5kg — next session stay at 7.5kg, build to 12 reps before increasing weight. Strict pull-up technique needs work — accumulating reps over time. Farmer's walk good core substitute with back stiffness. Solid session given CD2 context.
+---
+
 DATE: 03.03.2026
 SESSION: Long Steady Bike
 OURA: 82 | CYCLE DAY: 30
