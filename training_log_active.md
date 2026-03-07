@@ -12,6 +12,7 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 06.03.2026 | 33kg×10 | 15kg×8 | — | — | — | — | — | — | — | 7–8 |
 | 05.03.2026 | — | — | — | — | — | — | 7.5kg×10 | 32.5kg×10 | 1 strict | 7 |
 | 01.03.2026 | — | — | 23kg×12 | 8kg×12 | 35kg×10 | 25kg×14 | — | — | — | 7–8 |
 | 23.02.2026 | — | — | — | — | — | — | 7.5kg×10 (trial) | 32.5kg×10 | 1 strict | 8 |
@@ -33,6 +34,34 @@
 
 ## ENTRIES — NEWEST FIRST
 ---
+DATE: 06.03.2026
+SESSION: Lower Body I
+OURA: 91 | CYCLE DAY: 3
+SURF/SKATE THIS WEEK SO FAR: 1 (surf 04.03)
+
+BLOCK 1
+Deadlift: 20kg×10 (ramp), 25kg×8 (ramp), 3×10 @ 33kg
+Squat Jumps (rotation): 3×8 @ BW
+
+BLOCK 2
+Single-Leg Deadlift: 3×8 @ 15kg
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat Jumps: 3×10 @ BW
+TRX Hamstring Curl: 3×10 @ BW — both legs, controlled
+
+CORE BLOCK
+Dead Bug: 3×10/side — no scar sensation, tolerated well
+Side Plank L/R: 3×45s each
+Back Extensions: skipped — paddle fatigue from surf 04.03
+
+RPE: 7–8
+DURATION: not tracked
+FLAGS: none — scar symptom-free throughout including dead bug
+NOTES: Deadlift progressed to 33kg, 3×10 clean. SL-DL progressed to 15kg (profile had 14kg — exceeded). Spanish squat jumps substituted for static Spanish squat — explosive version tolerated well. Dead bug reintroduced successfully post-op — no scar reaction. HLR remains out until April ultrasound — lying leg raises cause scar burning. Back extensions skipped due to paddle fatigue
+---
+
 DATE: 05.03.2026
 SESSION: Upper Body
 OURA: 85 | CYCLE DAY: 2
