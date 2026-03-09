@@ -34,6 +34,37 @@
 
 ## ENTRIES — NEWEST FIRST
 ---
+DATE: 08.03.2026
+SESSION: Surf
+OURA: 90 | CYCLE DAY: 5
+
+DURATION: 2h
+CONDITIONS: —
+INTENSITY: moderate (377 kcal active)
+POP-UP QUALITY: —
+
+ACTIVE CALORIES: 377 kcal
+FLAGS: none
+NOTES: Second session of the day (skate earlier). Weekly activity: 9h 21min total (7h 10min metabolic, 2h 11min cardio/metabolic). High volume week — monitor recovery before next strength session.
+---
+
+DATE: 08.03.2026
+SESSION: Skate
+OURA: 90 | CYCLE DAY: 5
+
+DURATION: 1h 2min
+CONDITIONS: —
+INTENSITY: moderate (avg HR 102, peak ~143, Zone 0 dominant)
+POP-UP QUALITY: n/a
+
+ZONE SPLIT:
+Z0: 20min | Z1: 18min | Z2: 18min | Z3: 5min | Z4: 0min
+
+ACTIVE CALORIES: 198 kcal
+FLAGS: none
+NOTES: Mostly low-intensity movement with short bursts. Good active recovery session. Surf same day (16:30) — double session day.
+---
+
 DATE: 06.03.2026
 SESSION: Lower Body I
 OURA: 91 | CYCLE DAY: 3
