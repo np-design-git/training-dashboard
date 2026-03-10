@@ -12,6 +12,7 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 10.03.2026 | – | – | – | – | – | – | 7.5kg×12 | 32.5kg×12 | 3 strict | 7–8 |
 | 06.03.2026 | 33kg×10 | 15kg×8 | — | — | — | — | — | — | — | 7–8 |
 | 05.03.2026 | — | — | — | — | — | — | 7.5kg×10 | 32.5kg×10 | 1 strict | 7 |
 | 01.03.2026 | — | — | 23kg×12 | 8kg×12 | 35kg×10 | 25kg×14 | — | — | — | 7–8 |
@@ -33,6 +34,32 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+
+DATE: 10.03.2026
+SESSION: Upper Body
+OURA: 90 | CYCLE DAY: 7 | SLEEP: 85
+SURF/SKATE THIS WEEK SO FAR: 0
+
+BLOCK 1
+Seated Cable Row: 1×10 @ 20kg (ramp), 1×8 @ 25kg (ramp), 3×12 @ 32.5kg ✅ standard grip, consolidating
+Push-ups: 10 knee (ramp), 4 strict (ramp), 3×12 @ BW strict — at limit on last set
+
+BLOCK 2
+Assisted Pull-ups / Strict Pull-ups (ramp): 4 assisted
+One-Arm OHP: 1×10 @ 5kg (ramp)
+Working sets:
+One-Arm OHP: 3×12 @ 7.5kg — 2–3 reps in reserve, solid
+Pull-ups: Set 1: 6 assisted | Set 2: 2 strict + 4 assisted | Set 3: 1 strict + 5 assisted — 3 total strict reps, technique developing
+
+BLOCK 3
+Pallof Press: 3×12/side @ medium band — scar awareness, needed focus, tolerated fine
+Halos: 3×16 @ 10kg — subbed for Plank + Bird Dog
+
+RPE: 7–8
+DURATION: ~55 min
+FLAGS: scar awareness during Pallof press (manageable), push-ups at limit set 3, low deep sleep
+NOTES: Solid session. Row consolidating at 32.5kg standard grip — ready for 35kg when 3×12 feels easy. OHP 7.5kg has reserve, build to clean 3×12 before moving to 8kg. Strict pull-up count: 3 total — accumulating reps, technique to clean up with volume. Pallof press tolerated with focus — hold medium band. Push-ups at ceiling at 3×12 strict, hold here. Halos subbed for plank/bird dog.
+
 ---
 DATE: 08.03.2026
 SESSION: Surf
