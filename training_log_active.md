@@ -35,6 +35,21 @@
 
 ## ENTRIES — NEWEST FIRST
 ---
+DATE: 16.03.2026
+SESSION: Surf
+OURA: 92 | CYCLE DAY: 13
+
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: not recorded
+POP-UP QUALITY: not recorded
+
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: HR data not captured by Oura for this session.
+---
+---
 DATE: 12.03.2026
 SESSION: Surf
 OURA: 85 | CYCLE DAY: 9
