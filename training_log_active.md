@@ -34,7 +34,38 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+---
+DATE: 12.03.2026
+SESSION: Surf
+OURA: 85 | CYCLE DAY: 9
 
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: not recorded
+POP-UP QUALITY: not recorded
+
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: HR data not captured by Oura for this session.
+---
+
+DATE: 11.03.2026
+SESSION: Skate
+OURA: 88 | CYCLE DAY: 8
+
+DURATION: 1h 49min
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: n/a
+
+AVG HR: 106 bpm | HR RANGE: 73–142 bpm
+ZONE SPLIT: Z0: 34min | Z1: 27min | Z2: 28min | Z3: 17min | Z4: 0min | Z5: 0min
+ACTIVE CALORIES: 379 kcal
+
+FLAGS: none
+NOTES:
+---
 DATE: 10.03.2026
 SESSION: Upper Body
 OURA: 90 | CYCLE DAY: 7 | SLEEP: 85
