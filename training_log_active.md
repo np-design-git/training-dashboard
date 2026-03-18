@@ -12,6 +12,7 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 18.03.2026 | — | — | — | — | — | — | 10kg×10 | 35kg×10 | 2 strict | 7–8 |
 | 17.03.2026 | — | — | 25kg×12 | 10kg×12 | 35kg×12 | — | — | — | — | 7–8 |
 | 10.03.2026 | – | – | – | – | – | – | 7.5kg×12 | 32.5kg×12 | 2 strict | 7–8 |
 | 06.03.2026 | 33kg×10 | 15kg×8 | — | — | — | — | — | — | — | 7–8 |
@@ -35,7 +36,29 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+---
+DATE: 18.03.2026
+SESSION: Upper Body
+OURA: 88 | CYCLE DAY: 15
+SURF/SKATE THIS WEEK SO FAR: 1 (surf 16.03)
 
+BLOCK 1
+Seated Cable Row: 1×8 @ 35kg, 2×10 @ 35kg
+Push-ups: 3×12 @ BW strict
+
+BLOCK 2
+Pull-ups: Set 1: 2 strict + fill assisted | Sets 2–3: 5 assisted @ medium band
+One-Arm OHP: 3×10 @ 10kg
+
+BLOCK 3
+Pallof Press: 3×12/side @ medium band
+DB Side Bends: 3×12/side @ 16kg
+
+RPE: 7–8
+DURATION: ~60 min
+FLAGS: none
+NOTES: Row progressed to 35kg — Set 1 ramp at 8 reps, Sets 2–3 at 10 reps. Target: consolidate to 3×12 @ 35kg next session. Push-ups 3×12 strict confirmed — next session feet elevated or weighted vest. OHP progressed to 10kg — clean technique, not at limit. Stay at 10kg, build 10→12 reps next sessions before increasing. Pull-ups: 2 strict Set 1 only, Sets 2–3 fully assisted. Side bends progressed to 16kg. Plank/Bird Dog skipped.
+---
 DATE: 17.03.2026
 SESSION: Lower Body II
 OURA: 88 | CYCLE DAY: 14
