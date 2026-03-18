@@ -12,6 +12,7 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 17.03.2026 | — | — | 25kg×12 | 10kg×12 | 35kg×12 | — | — | — | — | 7–8 |
 | 10.03.2026 | – | – | – | – | – | – | 7.5kg×12 | 32.5kg×12 | 2 strict | 7–8 |
 | 06.03.2026 | 33kg×10 | 15kg×8 | — | — | — | — | — | — | — | 7–8 |
 | 05.03.2026 | — | — | — | — | — | — | 7.5kg×10 | 32.5kg×10 | 1 strict | 7 |
@@ -34,6 +35,33 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+
+DATE: 17.03.2026
+SESSION: Lower Body II
+OURA: 88 | CYCLE DAY: 14
+SURF/SKATE THIS WEEK SO FAR: 1 (surf 16.03)
+
+BLOCK 1
+Front Squat: 15kg×10 (ramp), 20kg×8 (ramp), 3×12 @ 25kg — miniband, clean progression
+Split Lunges: 3×20 @ BW
+
+BLOCK 2
+Bulgarian Split Squat: 3×12 @ 10kg — progression from 8kg, stable knee tracking
+Box Jump Rotation (bench): 3×8 @ BW
+
+BLOCK 3
+RDL: 20kg×10 (ramp), 25kg×8 (ramp), 30kg×8 (ramp), 2×12 @ 35kg — felt good, ready to increase
+Hip Thrust: skipped
+
+CORE BLOCK
+KB Twist: 2×8/side @ 8kg — first introduction, new movement needs focus, tolerated well, no scar sensation
+Dead Bug: 3×12/side @ 5kg — self-initiated weight addition, partial ROM, tolerated well, no scar reaction
+Side Plank: skipped
+
+RPE: not recorded
+DURATION: not tracked
+FLAGS: none
+NOTES: Front squat successfully progressed to 25kg, 3×12 clean — hold and consolidate next session. RDL 2×12 @ 35kg ahead of prescription — increase to 37.5kg or 40kg next LB II. KB Twist introduced at 8kg (below profile target of 12kg) — correct decision to learn pattern first, build from here. Dead Bug with 5kg partial ROM — continue building range before adding more weight. Hip Thrust and Side Plank skipped — time/fatigue.
 ---
 DATE: 16.03.2026
 SESSION: Surf
