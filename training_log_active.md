@@ -12,6 +12,8 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 29.03.2026 | 35kg×12 | 16kg×10 | — | — | — | — | — | — | — | 7 |
+| 27.03.2026 | — | — | — | — | — | — | 10kg×12 | 35kg×12 | OH Cable Pull 35kg×12 | 7–8 |
 | 18.03.2026 | — | — | — | — | — | — | 10kg×10 | 35kg×10 | 2 strict | 7–8 |
 | 17.03.2026 | — | — | 25kg×12 | 10kg×12 | 35kg×12 | — | — | — | — | 7–8 |
 | 10.03.2026 | – | – | – | – | – | – | 7.5kg×12 | 32.5kg×12 | 2 strict | 7–8 |
@@ -36,7 +38,162 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+
 ---
+DATE: 02.04.2026
+SESSION: Skate
+OURA: 87 | CYCLE DAY: 7
+DURATION: 2h 8min
+CONDITIONS: not recorded
+INTENSITY: easy–moderate
+AVG HR: 108 bpm | HR RANGE: 74–153 bpm
+ZONE SPLIT: Z0: 18min | Z1: 1h 6min | Z2: 45min | Z3: 14min | Z4: 1min | Z5: 0min
+ACTIVE CALORIES: 533 kcal
+
+FLAGS: none
+NOTES: Predominantly Z1 — active recovery skate, CD7. Low intensity, long duration. Good movement without accumulated fatigue.
+---
+
+DATE: 29.03.2026
+SESSION: Lower Body I
+OURA: 84 | CYCLE DAY: 3
+
+WARM-UP
+Hip + Knee Sequence (full)
+
+BLOCK 1
+Deadlift: 25kg×10 (ramp), 30kg×8 (ramp), 4×12 @ 35kg
+Squat Jumps (rotation): 4×8 @ BW
+
+BLOCK 2
+Single-Leg Deadlift: 12kg×10 (ramp), 3×10 @ 16kg
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat (band): 3×12 @ +5kg straight arms
+TRX Hamstring Curl: 3×10 @ BW
+
+CORE BLOCK
+Plank: 3×45s @ BW
+Side Plank L/R: 3×45s each
+Dead Bug: skipped
+Back Extensions: skipped
+
+RPE: 7
+DURATION: ~60 min
+FLAGS: none — core stable throughout, no scar sensation
+NOTES: Deadlift progressed to 35kg, 4×12 felt easy — next session 37.5kg × 12 (no rep reset). SL-DL progressed to 16kg × 10 — ahead of prescription, next session consolidate at 16kg × 12. HLR remains excluded until April ultrasound.
+---
+
+DATE: 28.03.2026
+SESSION: Surf
+OURA: 85 | CYCLE DAY: 2
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: —
+---
+
+DATE: 27.03.2026
+SESSION: Upper Body
+OURA: 82 | CYCLE DAY: 1
+
+WARM-UP
+Rowing: 5 min easy
+
+BLOCK 1
+Seated Cable Row: 25kg×10 (ramp), 30kg×8 (ramp), 3×12 @ 35kg
+Push-ups: 3×12 @ BW strict
+
+BLOCK 2
+OH Cable Pull: 25kg×10 (ramp), 30kg×10 (ramp), 3×12 @ 35kg
+One-Arm OHP: 7.5kg×8 (ramp), 3×12 @ 10kg
+
+BLOCK 3
+Pallof Press: 3×12/side @ medium band
+Dead Bug: 3×10/side @ 5kg
+
+RPE: 7
+DURATION: ~60 min
+FLAGS: none
+NOTES: Row 3×12 @ 35kg consolidated — increase to 37.5kg next session. OH Cable Pull subbed for pull-ups, 35kg×12 clean. OHP 3×12 @ 10kg confirmed — increase to 12.5kg next session, reset to 8 reps. Push-ups 3×12 strict flat — feet elevated deferred, no intra-abdominal pressure concern. Dead Bug 3×10 @ 5kg partial ROM, tolerated well.
+---
+
+DATE: 26.03.2026
+SESSION: Surf
+OURA: 69 | CYCLE DAY: 23
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+---
+
+DATE: 25.03.2026
+SESSION: Skate
+OURA: 85 | CYCLE DAY: 24
+DURATION: 1h 9min
+CONDITIONS: not recorded
+INTENSITY: moderate–hard
+AVG HR: 135 bpm | HR RANGE: 102–164 bpm
+ZONE SPLIT: Z0: 0min | Z1: 1min | Z2: 22min | Z3: 28min | Z4: 17min | Z5: 0min
+ACTIVE CALORIES: 367 kcal
+
+FLAGS: none
+NOTES: Higher intensity than previous skate sessions — significant Z4 exposure (17min). Good aerobic + cardiovascular stimulus.
+---
+
+DATE: 22.03.2026
+SESSION: Surf
+OURA: 83 | CYCLE DAY: 19
+DURATION: 4h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 755 kcal
+
+FLAGS: none
+NOTES: Long session — 4h, highest surf calorie burn logged to date. 
+---
+
+---
+DATE: 20.03.2026
+SESSION: Surf
+OURA: 77 | CYCLE DAY: 17
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: Weekly activity 12h 46min this week.
+---
+
+DATE: 19.03.2026
+SESSION: Skate
+OURA: 87 | CYCLE DAY: 16
+DURATION: 1h 20min
+CONDITIONS: not recorded
+INTENSITY: moderate
+AVG HR: 129 bpm | HR RANGE: 106–153 bpm
+ZONE SPLIT: Z0: 0min | Z1: 0min | Z2: 31min | Z3: 43min | Z4: 2min | Z5: 0min
+ACTIVE CALORIES: 409 kcal
+
+FLAGS: none
+NOTES: Predominantly Z3. Good sustained aerobic effort.
+---
+
 DATE: 18.03.2026
 SESSION: Upper Body
 OURA: 88 | CYCLE DAY: 15
