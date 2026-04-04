@@ -12,6 +12,7 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 03.04.2026 | — | — | 28kg×10 | 12.5kg×10 | — | 40kg×14 | — | — | — | 7–8 |
 | 29.03.2026 | 35kg×12 | 16kg×10 | — | — | — | — | — | — | — | 7 |
 | 27.03.2026 | — | — | — | — | — | — | 10kg×12 | 35kg×12 | OH Cable Pull 35kg×12 | 7–8 |
 | 18.03.2026 | — | — | — | — | — | — | 10kg×10 | 35kg×10 | 2 strict | 7–8 |
@@ -38,6 +39,36 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+
+---
+DATE: 03.04.2026
+SESSION: Lower Body II
+OURA: 87 | CYCLE DAY: 8
+
+WARM-UP
+Hip + Knee Sequence (full, at gym)
+
+BLOCK 1
+Front Squat: 15kg×10 (ramp), 20kg×8 (ramp), 3×10 @ 28kg — miniband, 1-2 reps in reserve, well tolerated
+Split Lunges: 3×20 @ BW
+
+BLOCK 2
+Bulgarian Split Squat: 8kg×6 (ramp), 3×10 @ 12.5kg — stable knee tracking
+Box Jump Rotation: 3×8 @ BW — explosive, clean landing
+
+BLOCK 3
+RDL: 20kg×12 (ramp), 30kg×12 (ramp) — skipped working sets, time constraint
+Hip Thrust: 20kg×12 (ramp), 30kg×12 (ramp), 3×14 @ 40kg — full hip extension, chin to chest, no lumbar deviation, clean lockout
+
+CORE BLOCK
+KB Twist: 3×10/side @ 8kg — controlled rotation, no scar sensation
+Side Plank L/R: 3×45s each
+
+RPE: 7–8
+DURATION: ~60–75 min
+FLAGS: none
+NOTES: Front squat 28kg × 3×10 with 1–2 RIR — next LB II 28kg × 12, then 30kg × 8. Bulgarian SS 12.5kg × 3×10 clean — next LB II 12.5kg × 12, then 15kg × 8. Hip thrust significant jump to 40kg × 3×14 — sauber mit voller ROM, kein Lumbar-Ausweichen. RDL skipped due to time. KB Twist progressed from 2×8 (17.03) to 3×10 — pattern developing well. Core overall feels more stable and load-tolerant — compound lifts feeling lighter as a result.
+---
 
 ---
 DATE: 02.04.2026
