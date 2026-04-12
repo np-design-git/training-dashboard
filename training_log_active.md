@@ -12,6 +12,9 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 12.04.2026 | 40kg×10 | 16kg×12 | — | — | — | — | — | — | — | 7–8 |
+| 10.04.2026 | — | — | — | — | — | — | 12kg×10 | 36.5kg×12 | Lat Pull 40kg×10 | — |
+| 05.04.2026 | — | — | — | — | — | — | 12kg×8 | 37.5kg×8 | 2 strict | 7–8 |
 | 03.04.2026 | — | — | 28kg×10 | 12.5kg×10 | — | 40kg×14 | — | — | — | 7–8 |
 | 29.03.2026 | 35kg×12 | 16kg×10 | — | — | — | — | — | — | — | 7 |
 | 27.03.2026 | — | — | — | — | — | — | 10kg×12 | 35kg×12 | - | 7–8 |
@@ -39,8 +42,131 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
-
 ---
+DATE: 12.04.2026
+SESSION: Lower Body I
+OURA: 74 | CYCLE DAY: 17
+
+WARM-UP
+Hip + Knee Sequence (full, at gym)
+
+BLOCK 1
+Deadlift: 3×10 @ 40kg — clean technique, gut machbar, RPE 7–8
+Squat Jumps (rotation): 3×10 @ BW
+
+BLOCK 2
+Single-Leg Deadlift: 3×12 @ 16kg
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat (band): 3×12 @ +10kg 
+TRX Hamstring Curl: 3×12 @ BW
+
+CORE BLOCK
+Back Extensions: skipped
+HLR: EXCLUDED — pending ultrasound clearance
+
+RPE: 7–8
+DURATION: —
+FLAGS: none
+NOTES: Deadlift significant jump to 40kg × 3×10 — sauber, gut machbar, 1–2 RIR. Next session 40kg × 12, then 42.5kg × 8 reset. SL-DL consolidated at 16kg × 3×12 — next session 17.5kg × 8 reset. Spanish squat progressed to +10kg × 3×12 — clean position. TRX Hamstring Curl at 3×12 BW.
+---
+
+
+DATE: 10.04.2026
+SESSION: Upper Body
+OURA: 85 | CYCLE DAY: 15
+
+WARM-UP
+Rowing: 5 min easy
+
+BLOCK 1
+Seated Cable Row: 25kg×10 (ramp), 30kg×8 (ramp), 3×12 @ 36.5kg
+Push-ups: 3×12 @ BW strict
+
+BLOCK 2
+Lat Pull (machine): 3×10 @ 40kg
+One-Arm OHP: 3×10 @ 12kg — Set 3 abgebrochen bei 8 reps
+
+BLOCK 3
+Stretching only — core skipped
+
+RPE: 8
+DURATION: ~60 min
+FLAGS: none
+NOTES: Row progressed to 36.5kg, 3×12 clean. Lat Pull jumped to 40kg, 3×10. OHP progressed to 12kg — Set 3 only 8 reps, stay at 12kg next session, build to 3×10 before increasing. Push-ups 3×12 strict flat confirmed.
+---
+
+
+DATE: 08.04.2026
+SESSION: Easy Recovery Bike
+OURA: - | CYCLE DAY: 13
+
+TYPE: Steady — Recovery Z3
+DURATION: 45:00
+AVG HR: 143 bpm | PEAK HR: 154 bpm
+
+ZONE SPLIT:
+Predominantly Z3, climbing toward low Z4 in second half (HR 143–154 bpm range)
+
+POST-EXERCISE HR RECOVERY:
+146 bpm → 92 bpm within 1 min (strong recovery)
+
+ACTIVE CALORIES: 213 kcal (Apple Watch) / 434 kcal machine (Technogym — not reliable, use Apple Watch)
+AVG POWER: 137 W (Technogym)
+RPE: 5–6
+FLAGS: none
+NOTES: First session post-travel Munich. Easy recovery ride as planned. HR ran slightly higher than pure Z2 target (jet lag / travel stress normal). Avg power 137W — solid for a recovery day. Strong post-exercise HR drop (54 bpm in 1 min). Good baseline for Munich training block.
+---
+
+
+DATE: 05.04.2026
+SESSION: Upper Body
+OURA: 86 | CYCLE DAY: 10
+
+WARM-UP
+5 min rowing — easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+Seated Cable Row: 25kg×8 (ramp), 30kg×6 (ramp), 3×8 @ 37.5kg
+Push-ups: 3×12 @ BW strict flat — feet elevated deferred
+
+BLOCK 2
+OH Cable Pull: 25kg×8 (ramp), 30kg×6 (ramp), 3×8 @ 37.5kg
+One-Arm OHP: 3×8 @ 12kg — 0 RIR, at limit
+Pull-ups: 2 strict + 4 assisted × 4 sets
+
+CORE BLOCK
+Pallof Press: 2×12/side @ medium band — abdominal pressure on right-to-left pull, stopped after 2 sets. Normalized post-set.
+Dead Bug: skipped
+Plank: skipped
+
+RPE: 7–8 overall | Block 2 at limit
+DURATION: ~60 min
+FLAGS: IAP during Pallof Press when tension from right — stopped at 2 sets, resolved. Asymmetric core loading pattern, likely post-OP. Monitor.
+NOTES: Row reset to 37.5kg × 8 clean. OHP at 12kg (not 12.5kg) — 0 RIR, stay at 12kg next session, build to 3×10 before increasing. Pull-ups same as 27.03 — 2 strict + 4 assisted. OH Cable Pull reset to 37.5kg clean. Pallof Press: right-to-left direction triggers IAP — exhale before pull, focus on breath control next session. Feet elevated push-ups deferred.
+---
+
+DATE: 04.04.2026
+SESSION: Skate
+OURA: 86 | CYCLE DAY: 9
+
+DURATION: 1h 3min
+CONDITIONS: unknown
+INTENSITY: moderate
+AVG HR: 122 bpm | PEAK HR: 153 bpm
+
+ZONE SPLIT (Oura):
+Z1: 9min | Z2: 36min+ (dominant) | Z3/Z4: spikes to 153 bpm
+
+ACTIVE CALORIES: 280 kcal
+RPE: unknown
+FLAGS: none documented
+NOTES: Session erfasst mit Oura. Überwiegend Zone 2 mit kurzen Intensitätsspitzen — typisch Skate-Profil. Nachgeloggt am 08.04.2026.
+---
+
+
 DATE: 03.04.2026
 SESSION: Lower Body II
 OURA: 87 | CYCLE DAY: 8
