@@ -42,6 +42,39 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+
+DATE: 14.04.2026
+SESSION: Interval Row + Treadmill
+OURA: 79 | CYCLE DAY: 19
+
+TYPE: Structured Intervals — Mixed Modality (Rudern + Laufband)
+DURATION: 50:06
+AVG HR: 152 bpm | PEAK HR: 177 bpm
+
+ZONE SPLIT (Oura):
+Z2: 3min | Z3: 11min | Z4: 12min | Z5: 19min
+(5min keine HR-Daten)
+
+INTERVAL STRUCTURE:
+2 × 7min Rudern @ ~165 bpm
+2 × 7min Laufband @ ~165–170 bpm
+3min Erholung je Pause — HR Drop auf ~130 bpm
+Finisher: 2min Laufband Max-Tempo @ 177 bpm
+Cooldown: HR ~119 bpm
+
+START HR: 106 bpm
+ACTIVE CALORIES: 408 kcal | TOTAL: 468 kcal
+POST-EXERCISE HR RECOVERY: 177 bpm → 120 bpm within 3 min (stark)
+
+RPE: 8–9
+FLAGS: none
+NOTES: Erste Mixed-Modality Intervallsession (Rudern + Laufband).
+19min Z5 — höchster Z5-Anteil je geloggt. Peak HR 177 bpm neues Maximum.
+Sets 3+4 bis 170 bpm — progressive Steigerung über die Session.
+Erholung in Pausen auf ~130 bpm (3min) — solide. Post-exercise Drop
+auf 120 in 3min stark. Laufband triggert höhere kardiale Last als
+Bike — relevant für zukünftige Intensitätsplanung. München Training Block.
+
 ---
 DATE: 12.04.2026
 SESSION: Lower Body I
