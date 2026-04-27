@@ -12,6 +12,7 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 26.04.2026 | — | — | — | — | — | — | 12.5kg×10 | 37.5kg×12 | — | 7 |
 | 12.04.2026 | 40kg×10 | 16kg×12 | — | — | — | — | — | — | — | 7–8 |
 | 10.04.2026 | — | — | — | — | — | — | 12kg×10 | 36.5kg×12 | - | — |
 | 05.04.2026 | — | — | — | — | — | — | 12kg×8 | 37.5kg×8 | 2 strict | 7–8 |
@@ -42,6 +43,48 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+
+DATE: 26.04.2026
+SESSION: Upper Body
+OURA: 82 | CYCLE DAY: 3
+SURF/SKATE THIS WEEK SO FAR: 0
+
+WARM-UP
+5 min rowing — easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+Seated Cable Row: 10×20kg (ramp), 8×25kg (ramp), 3×12 @ 37.5kg — solid
+Push-ups (strict, flat): 3×12 @ BW
+
+BLOCK 2
+Lat Pull: 10×30kg (ramp), 8×35kg (ramp), 12-10-12 @ 40kg — am Limit, 0 RIR. Stay at 40kg next session, build to 3×12 before increasing.
+One-Arm OHP (DB): 10×7.5kg (ramp), 6×10kg (ramp), 3 working sets @ 12.5kg — Set 1: 10 reps, Set 2: 10 reps, Set 3: 8 reps @ 12.5kg + 4 reps @ 10kg left side only. Left shoulder fatigued under load. Stay at 12.5kg next session — target clean 3×10 both sides before progressing to 15kg.
+
+CORE BLOCK
+Pallof Press: 3×12/side — medium band
+Dead Bug: 3×12/side @ 5kg — full ROM
+Plank: 3×45s
+
+RPE: 7
+DURATION: ~60 min
+FLAGS: Left OHP asymmetry on Set 3 — right side completed 12.5kg, left dropped to 10kg after 8 reps. Monitor.
+NOTES: CD3 — RPE ceiling respected. Row 3×12 @ 37.5kg solid. 
+Lat Pull 40kg uneven (12-10-12) — stay here, build to clean 3×12. 
+OHP progressed to 12.5kg but left side not yet matching right — 
+stay at 12.5kg, build to clean 3×10 both sides before moving to 15kg. 
+Lat Pull replacing pull-ups as primary vertical pull strength builder. 
+Full medical clearance received today — all exercises now permitted 
+including HLR and feet-elevated push-ups. No restrictions going forward.
+Nutrition: 1968 kcal / 101.6g protein / 217g carbs / 75.8g fat. 
+Protein at 101.6g (1.78g/kg) — below 110g profile floor but adequate 
+for training load and body weight on a low-NEAT Indonesia day.
+→ FLAG FOR MAY REVIEW: Reconsider protein floor. 110–120g may be too 
+ambitious for a 1850–2000 kcal budget at low NEAT. Evidence supports 
+100–105g (1.75g/kg) as sufficient for muscle retention at current 
+training frequency. Recommend adjusting profile target to 100–110g/day.
+---
+
 
 DATE: 14.04.2026
 SESSION: Interval Row + Treadmill
