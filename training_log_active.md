@@ -12,6 +12,9 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+
+| 18.05.2026 | — | — | — | — | — | — | 12.5kg×10/8/8 | 37.5kg×10 | — | 7 |
+| 27.04.2026 | — | — | 28kg×12 | 12.5kg×12 | 40kg×10 | — | — | — | — | 7 |
 | 26.04.2026 | — | — | — | — | — | — | 12.5kg×10 | 37.5kg×12 | — | 7 |
 | 12.04.2026 | 40kg×10 | 16kg×12 | — | — | — | — | — | — | — | 7–8 |
 | 10.04.2026 | — | — | — | — | — | — | 12kg×10 | 36.5kg×12 | - | — |
@@ -43,6 +46,118 @@
 ---
 
 ## ENTRIES — NEWEST FIRST
+
+Hier ist der komplette Log-Eintrag zum Einfügen:
+
+---
+DATE: 18.05.2026
+SESSION: Upper Body
+OURA: 86 | CYCLE DAY: 25
+SURF/SKATE THIS WEEK SO FAR: 0
+
+WARM-UP
+5 min Rowing easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+Seated Cable Row: 1×10 @ 27.5kg (ramp), 1×8 @ 32.5kg (ramp), 3×10 @ 37.5kg — solid
+Push-ups: 3×10 @ BW strict
+
+BLOCK 2
+Lat Pull: 1×10 @ 30kg (ramp), 1×8 @ 35kg (ramp), 3×10 @ 40kg
+One-Arm OHP: 1×8 @ 7.5kg (ramp), Set 1: 10 reps @ 12.5kg, Sets 2–3: 8 reps @ 12.5kg
+
+CORE BLOCK
+Plank: 3×45s
+Side Plank L: 3×45s
+Side Plank R: 3×45s
+
+RPE: 7
+DURATION: ~80 min
+FLAGS: none
+NOTES: Erste Session nach 2-Wochen-Pause — Gewichte gehalten, kein Progression. Row 3×10 @ 37.5kg
+solide. Lat Pull 3×10 @ 40kg kontrolliert. OHP Set 1 zurück auf 10 reps, Sets 2–3 bei 8 reps —
+Asymmetrie links noch präsent, konservativ geblieben. Nächste Session: Row 3×12 @ 37.5kg anstreben,
+OHP 3×10 @ 12.5kg als Ziel, Lat Pull 3×12 @ 40kg aufbauen.
+---
+
+DATE: 02.05.2026
+SESSION: Cardio — Radfahren (Indoor Bike)
+OURA: 89 | CYCLE DAY: 9
+
+TYPE: Aerobic — Progressive Z2→Z4
+DURATION: 48 min
+AVG HR: 145 bpm | PEAK HR: ~160 bpm
+
+ZONE SPLIT (Apple Fitness):
+Z2: 5min | Z3: 10min | Z4: 30min | Z5: 0min
+(3min keine HR-Daten)
+
+ACTIVE CALORIES: 222 kcal
+
+RPE: 7
+FLAGS: none
+NOTES: Started as planned moderate Z2 session — energy lifted 
+progressively, session naturally escalated to predominantly Z4 
+(30min). Avg 145 bpm, activity predominantly Bereich 4 per 
+Apple Fitness summary. Good cardiovascular stimulus. 
+Started low energy, finished strong — classic CD9 follicular 
+response. Legs felt better post-session (day 2 post-LB II DOMS).
+---
+
+DATE: 29.04.2026
+SESSION: Active Recovery — Rad indoor
+OURA: 89 | CYCLE DAY: 6
+
+TYPE: Active Recovery Z1
+DURATION: 30:00
+AVG HR: 90 bpm | PEAK HR: 104 bpm
+
+ACTIVE CALORIES: 53 kcal | TOTAL: 89 kcal
+
+RPE: 2
+FLAGS: none
+NOTES: Active recovery session day 2 post-LB II — quad DOMS. 
+Pure Z1 throughout, avg 90 bpm, peak 104 bpm. 
+Executed exactly as prescribed — blood flow stimulus 
+without additional training load. No sweat, no fatigue.
+---
+
+DATE: 27.04.2026
+SESSION: Lower Body II
+OURA: 86 | CYCLE DAY: 4 | SLEEP: 91
+SURF/SKATE THIS WEEK SO FAR: 0
+
+WARM-UP
+Hip + Knee Sequence (full)
+
+BLOCK 1
+Front Squat: 15kg×8 (ramp), 22kg×6 (ramp), 3×12 @ 28kg — clean, 
+ready to progress. Next LB II: 30kg × 8 reset.
+Split Lunges: 3×20 @ BW
+
+BLOCK 2
+Bulgarian Split Squat: 8kg×6 (ramp), 3×12 @ 12.5kg — strength solid, 
+power lacking on Box Jumps (CD4, menstruation — expected, not a flag).
+Next LB II: 15kg × 8 reset.
+Box Jump Rotation: 3×8 @ BW — completed, power output low.
+
+BLOCK 3
+RDL: 1×12 @ 35kg, 2×10 @ 40kg — strong jump to 40kg.
+Next LB II: 40kg × 12, then 42.5kg × 8 reset.
+Hip Thrust: skipped — time constraint
+KB Twist: skipped — time constraint
+Side Plank: skipped — time constraint
+
+RPE: 7
+DURATION: ~50 min
+FLAGS: none
+NOTES: CD4 — RPE ceiling respected. Front Squat and Bulgarian SS both 
+confirmed at 3×12 — both progress next session. RDL strong re-entry 
+after skip on 03.04 — jumped to 40kg for sets 2–3. Hip Thrust and 
+core skipped due to time, not fatigue. Carry Hip Thrust and core 
+forward to next LB II session.
+---
 
 DATE: 26.04.2026
 SESSION: Upper Body
