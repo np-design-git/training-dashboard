@@ -12,7 +12,8 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
-
+| 30.05.2026 | — | — | — | — | — | — | 12.5kg×8 | 37.5kg×12 | — | 8 |
+| 25.05.2026 | 45kg×10 | 16kg×12 | — | — | — | — | — | — | — | 7–8 |
 | 18.05.2026 | — | — | — | — | — | — | 12.5kg×10/8/8 | 37.5kg×10 | — | 7 |
 | 27.04.2026 | — | — | 28kg×12 | 12.5kg×12 | 40kg×10 | — | — | — | — | 7 |
 | 26.04.2026 | — | — | — | — | — | — | 12.5kg×10 | 37.5kg×12 | — | 7 |
@@ -48,6 +49,70 @@
 ## ENTRIES — NEWEST FIRST
 
 Hier ist der komplette Log-Eintrag zum Einfügen:
+
+
+---
+DATE: 30.05.2026
+SESSION: Upper Body
+OURA: 94 | CYCLE DAY: 9
+SURF/SKATE THIS WEEK SO FAR: 2 (1 surf + 1 skate)
+
+WARM-UP
+5 min Rowing easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+Seated Cable Row: 1×10 @ 27.5kg (ramp), 1×8 @ 32.5kg (ramp), 3×12 @ 37.5kg — good technique
+Push-ups: 3×12 @ BW strict — good technique
+
+BLOCK 2
+Lat Pull: 1×10 @ 30kg (ramp), 1×8 @ 35kg (ramp), 3×12 @ 40kg
+One-Arm OHP: 1×8 @ 7.5kg (ramp), 3×8 @ 12.5kg — technique ok, not super clean
+
+CORE BLOCK
+Skipped — time constraint
+
+RPE: 8
+DURATION: ~90 min
+FLAGS: none
+NOTES: Row 3×12 @ 37.5kg mit guter Technik bestätigt — nächste Session Sprung auf 40kg × 8.
+Lat Pull 3×12 @ 40kg bestätigt — nächste Session Sprung auf 42.5kg × 8.
+OHP 3×8 @ 12.5kg — Technik noch nicht sauber genug, bleibt bei 12.5kg, Ziel 3×10 sauber
+vor Progression. Core nächste Session unbedingt wieder rein.
+---
+
+DATE: 25.05.2026
+SESSION: Lower Body I
+OURA: 92 | CYCLE DAY: 4
+SURF/SKATE THIS WEEK SO FAR: 0
+
+WARM-UP
+5 min Rowing easy
+
+BLOCK 1
+Deadlift: 25kg×8 (ramp), 32.5kg×6 (ramp), 1×12 @ 40kg, 2×10 @ 45kg — sauber, RPE 7–8
+Squat Jumps (rotation): 3×10 @ BW
+
+BLOCK 2
+Single-Leg Deadlift: 12kg×8 (ramp), 3×12 @ 16kg — clean technique
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat (band): 4×12 @ +10kg
+
+CORE BLOCK
+HLR: EXCLUDED — pending ultrasound baseline
+Back Extensions: skipped — time constraint
+Plank: skipped — time constraint
+
+RPE: 7–8
+FLAGS: none
+NOTES: Deadlift signifikanter Sprung — 40kg×12 (ramp), dann 45kg×2×10 sauber bei RPE 7–8.
+45kg neu etabliert. Next LB I: 45kg×12. SL Deadlift 3×12 @ 16kg bestätigt —
+next LB I: 17.5kg×8 reset. Spanish Squat 4×12 @ +10kg (ein Satz extra).
+HR Recovery nach Session: 167→134→113 in 2 min — stark.
+TRX Hamstring Curl, Back Extensions und Plank zeitbedingt ausgelassen.
+
 
 ---
 DATE: 18.05.2026
