@@ -12,6 +12,8 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 12.06.2026 | — | — | 30kg×8 | 15kg×8 | 45kg×8 | — | — | — | — | 7–8 |
+| 09.06.2026 | — | — | — | — | — | — | 12.5kg×10* | — | 3 strict | 7 |
 | 30.05.2026 | — | — | — | — | — | — | 12.5kg×8 | 37.5kg×12 | — | 8 |
 | 25.05.2026 | 45kg×10 | 16kg×12 | — | — | — | — | — | — | — | 7–8 |
 | 18.05.2026 | — | — | — | — | — | — | 12.5kg×10/8/8 | 37.5kg×10 | — | 7 |
@@ -49,9 +51,75 @@
 ## ENTRIES — NEWEST FIRST
 
 Hier ist der komplette Log-Eintrag zum Einfügen:
-
-
 ---
+DATE: 12.06.2026
+SESSION: Lower Body II
+OURA: 80 | CYCLE DAY: 22
+
+WARM-UP
+5 min cycle easy
+Hip + Knee Sequence — full at gym
+
+BLOCK 1
+Front Squat: 1×8 @ 15kg, 1×6 @ 22kg, 3×8 @ 30kg — as prescribed
+Split Lunges: 3×20 @ BW
+
+BLOCK 2
+Bulgarian Split Squat: 1×6 @ 8kg, 3×8 @ 15kg — as prescribed
+Box Jump Rotation: 3×8 @ BW
+
+BLOCK 3
+RDL: 1×12 @ 35kg, 1×8 @ 37.5kg, 3×8 @ 45kg — challenging but clean
+technique all reps
+Hip Thrust: skipped — time
+KB Twist: skipped — time
+Side Plank: skipped — time
+
+RPE: 7–8
+DURATION: ~60 min
+FLAGS: Hip Thrust, KB Twist, Side Plank skipped for third consecutive
+session — structural issue, not time issue. Must open Block 3 with
+Hip Thrust next LB II before fatigue accumulates.
+NOTES: Front Squat and Bulgarian SS both progressed as prescribed —
+build 8→10→12 before next weight increase. RDL jumped to 45kg (+5kg)
+challenging but clean — consolidate at 45kg, target 3×10 next LB II.
+Hip Thrust, KB Twist, Side Plank carry forward — non-negotiable.
+---
+
+DATE: 09.06.2026
+SESSION: Upper Body
+OURA: 82 | CYCLE DAY: 19
+
+WARM-UP
+5 min rowing easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+DB Row (sub for Cable Row): 3×10 @ 15kg — no 16kg available
+Push-ups: 3×12 @ BW strict flat
+
+BLOCK 2
+Pull-ups: 3×(3 strict + 3 assisted) — 3 strict per set, up from 2 strict (05.04)
+One-Arm OHP: 3×10 @ 12.5kg — Sets 1–2 clean; Set 3: left push press reps 8–10
+
+CORE BLOCK
+Plank: 1×45–60s
+Plate Sit-ups: 1×12 @ 5kg
+(Pallof Press + Dead Bug skipped — carry forward)
+
+RPE: 7
+DURATION: —
+FLAGS: OHP left asymmetry — left fails at ~7 clean reps, push press compensation
+Set 3. Pallof Press + Dead Bug skipped — must be included next session.
+NOTES: DB Row sub (no 16kg — used 15kg). Pull-up strict reps improving: 3 strict
+per set confirmed, up from 2 (05.04). OHP 3×10 not clean — stays at 12.5kg,
+target 3×10 both sides clean before progressing. Lat Pull nächste Session zurück
+als primärer Vertical-Pull-Builder; Pull-up bleibt supplemental marker.
+Next UB: Lat Pull 3×8 @ 42.5kg. Cable Row zurück @ 40kg×8 (oder DB Row @ 17.5kg).
+OHP 3×10 @ 12.5kg — anstreben beide Seiten sauber.
+---
+
+
 DATE: 30.05.2026
 SESSION: Upper Body
 OURA: 94 | CYCLE DAY: 9
