@@ -140,6 +140,7 @@ FLAGS: none
 NOTES: —
 ---
 
+
 DATE: 22.06.2026
 SESSION: Skate
 OURA: 85 | CYCLE DAY: 5
@@ -155,9 +156,25 @@ FLAGS: none
 NOTES: Highest avg HR of the skate sessions this stretch — more Bereich 2/3 time than usual.
 ---
 
+DATE: 21.06.2026
+SESSION: Surf
+OURA: 83 | CYCLE DAY: 4
+
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 485 kcal
+DISTANCE: 3.20 km
+
+FLAGS: none
+NOTES: Highest calorie burn of this surf/skate stretch (485 kcal vs 377 kcal on 20.06/29.06/30.06) — likely more active paddling or bigger conditions.
+---
+
 DATE: 20.06.2026
 SESSION: Surf
-OURA: not recorded | CYCLE DAY: 3
+OURA: 76 | CYCLE DAY: 3
 
 DURATION: 2h
 CONDITIONS: not recorded
