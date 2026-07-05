@@ -3,7 +3,9 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import { parsePastedLog, appendToLog } from './src/utils/appendLog.js';
 
-dotenv.config({ path: './.backend.env' });
+if (process.env.NODE_ENV !== 'production') {
+  dotenv.config({ path: './.backend.env' });
+}
 
 const app = express();
 const PORT = process.env.PORT || 8787;
@@ -12,8 +14,13 @@ const GITHUB_REPO = process.env.GITHUB_REPO;
 const GITHUB_FILE_PATH = process.env.GITHUB_FILE_PATH || 'training_log_active.md';
 const GITHUB_BRANCH = process.env.GITHUB_BRANCH || 'main';
 
+const ALLOWED_ORIGINS = [
+  'http://localhost:5173',
+  'https://np-design-git.github.io',
+];
+
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: ALLOWED_ORIGINS,
   methods: ['GET', 'POST', 'OPTIONS'],
   allowedHeaders: ['Content-Type'],
 }));
@@ -70,7 +77,7 @@ app.get('/health', (_req, res) => {
 app.post('/api/append-log', async (req, res) => {
   try {
     if (!GITHUB_TOKEN || !GITHUB_REPO) {
-      return res.status(500).json({ error: 'GITHUB_TOKEN and GITHUB_REPO must be set in .backend.env' });
+      return res.status(500).json({ error: 'GITHUB_TOKEN and GITHUB_REPO must be set' });
     }
 
     const { text } = req.body || {};
