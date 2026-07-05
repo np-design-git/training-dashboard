@@ -51,6 +51,23 @@
 
 ## ENTRIES — NEWEST FIRST
 
+
+---
+DATE: 21.06.2026
+SESSION: Surf
+OURA: not recorded | CYCLE DAY: 4
+
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 485 kcal
+DISTANCE: 3.20 km
+
+FLAGS: none
+NOTES: Highest calorie burn of this surf/skate stretch (485 kcal vs 377 kcal on 20.06/29.06/30.06) — likely more active paddling or bigger conditions.
+---
 ---
 DATE: 04.07.2026
 SESSION: Upper Body
