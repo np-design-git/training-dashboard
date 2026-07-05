@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { useTrainingLog } from './hooks/useTrainingLog';
 import LiftProgressionChart from './components/LiftProgressionChart';
 import WeeklyVolumeChart from './components/WeeklyVolumeChart';
@@ -6,14 +6,30 @@ import CurrentLiftsTable from './components/CurrentLiftsTable';
 import SurfSkateLog from './components/SurfSkateLog';
 import SessionTimeline from './components/SessionTimeline';
 import OuraTrend from './components/OuraTrend';
-import CoachChat from './components/CoachChat';
+import AddToLog from './components/AddToLog';
 import './styles.css';
 
-const TABS = ['Overview', 'Lifts', 'Volume', 'Surf & Skate', 'Coach Chat'];
+const TABS = ['Overview', 'Lifts', 'Volume', 'Surf & Skate', 'Add to Log'];
 
 export default function App() {
-  const { data, loading, error, lastFetched, refresh } = useTrainingLog();
+  const { data, loading, error, lastFetched, refresh, copyFreshLog, copying } = useTrainingLog();
   const [activeTab, setActiveTab] = useState('Overview');
+  const [copied, setCopied] = useState(false);
+  const [copyError, setCopyError] = useState(null);
+  const copiedTimeoutRef = useRef(null);
+
+  const copyLog = async () => {
+    setCopyError(null);
+    try {
+      const text = await copyFreshLog();
+      await navigator.clipboard.writeText(text);
+      setCopied(true);
+      if (copiedTimeoutRef.current) clearTimeout(copiedTimeoutRef.current);
+      copiedTimeoutRef.current = setTimeout(() => setCopied(false), 2000);
+    } catch {
+      setCopyError('Copy failed');
+    }
+  };
 
   return (
     <div className="app">
@@ -24,9 +40,15 @@ export default function App() {
           <div className="header-sub">Training Dashboard · Mar 2026</div>
         </div>
         <div className="header-right">
-          <button className="refresh-btn" onClick={refresh} disabled={loading}>
-            {loading ? '↻' : '↺'} {loading ? 'LOADING' : 'REFRESH'}
-          </button>
+          <div className="header-actions">
+            <button className="header-btn" onClick={copyLog} disabled={copying || loading}>
+              {copying ? 'FETCHING…' : copied ? 'COPIED' : 'COPY LOG'}
+            </button>
+            <button className="header-btn" onClick={refresh} disabled={loading}>
+              {loading ? '↻' : '↺'} {loading ? 'LOADING' : 'REFRESH'}
+            </button>
+          </div>
+          {copyError && <div className="copy-error">{copyError}</div>}
           {lastFetched && (
             <div className="last-updated">
               Updated {lastFetched.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })}
@@ -65,7 +87,7 @@ export default function App() {
             {activeTab === 'Lifts' && <LiftsTab data={data} />}
             {activeTab === 'Volume' && <VolumeTab data={data} />}
             {activeTab === 'Surf & Skate' && <SurfTab data={data} />}
-            {activeTab === 'Coach Chat' && <CoachChat />}
+            {activeTab === 'Add to Log' && <AddToLog onSaved={refresh} />}
           </>
         ) : null}
       </main>

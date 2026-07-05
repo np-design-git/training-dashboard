@@ -19,9 +19,32 @@ const LOCAL_LOG_FALLBACK = ``;
 
 // ─────────────────────────────────────────────────────────────────────────────
 
+async function fetchMarkdown() {
+  if (GITHUB_RAW_URL) {
+    const sep = GITHUB_RAW_URL.includes('?') ? '&' : '?';
+    const url = `${GITHUB_RAW_URL}${sep}cb=${Date.now()}_${Math.random().toString(36).slice(2)}`;
+    const res = await fetch(url, {
+      cache: 'no-store',
+      headers: { Accept: 'text/plain,text/markdown,*/*' },
+    });
+    if (!res.ok) throw new Error(`Failed to fetch log: ${res.status}`);
+    return res.text();
+  }
+  if (LOCAL_LOG_FALLBACK) return LOCAL_LOG_FALLBACK;
+  return getDemoLog();
+}
+
+function applyMarkdown(markdown, setRawMarkdown, setData, setLastFetched) {
+  setRawMarkdown(markdown);
+  setData(parseTrainingLog(markdown));
+  setLastFetched(new Date());
+}
+
 export function useTrainingLog() {
   const [data, setData] = useState(null);
+  const [rawMarkdown, setRawMarkdown] = useState('');
   const [loading, setLoading] = useState(true);
+  const [copying, setCopying] = useState(false);
   const [error, setError] = useState(null);
   const [lastFetched, setLastFetched] = useState(null);
 
@@ -30,35 +53,30 @@ export function useTrainingLog() {
     setError(null);
 
     try {
-      let markdown = '';
-
-      if (GITHUB_RAW_URL) {
-        // GitHub raw + browser caches can serve stale content; bust both aggressively.
-        const sep = GITHUB_RAW_URL.includes('?') ? '&' : '?';
-        const url = `${GITHUB_RAW_URL}${sep}cb=${Date.now()}_${Math.random().toString(36).slice(2)}`;
-        const res = await fetch(url, {
-          cache: 'no-store',
-          headers: { Accept: 'text/plain,text/markdown,*/*' },
-        });
-        if (!res.ok) throw new Error(`Failed to fetch log: ${res.status}`);
-        markdown = await res.text();
-      } else if (LOCAL_LOG_FALLBACK) {
-        markdown = LOCAL_LOG_FALLBACK;
-      } else {
-        // Use demo data if nothing configured
-        markdown = getDemoLog();
-      }
-
-      const parsed = parseTrainingLog(markdown);
-      setData(parsed);
-      setLastFetched(new Date());
+      const markdown = await fetchMarkdown();
+      applyMarkdown(markdown, setRawMarkdown, setData, setLastFetched);
     } catch (err) {
       setError(err.message);
-      // Try to use demo data as fallback
-      const parsed = parseTrainingLog(getDemoLog());
-      setData(parsed);
+      applyMarkdown(getDemoLog(), setRawMarkdown, setData, setLastFetched);
     } finally {
       setLoading(false);
+    }
+  }, []);
+
+  const copyFreshLog = useCallback(async () => {
+    setCopying(true);
+    try {
+      const markdown = await fetchMarkdown();
+      applyMarkdown(markdown, setRawMarkdown, setData, setLastFetched);
+      setError(null);
+      return markdown;
+    } catch (err) {
+      setError(err.message);
+      const fallback = getDemoLog();
+      applyMarkdown(fallback, setRawMarkdown, setData, setLastFetched);
+      return fallback;
+    } finally {
+      setCopying(false);
     }
   }, []);
 
@@ -69,7 +87,7 @@ export function useTrainingLog() {
     return () => clearInterval(interval);
   }, [fetchLog]);
 
-  return { data, loading, error, lastFetched, refresh: fetchLog };
+  return { data, loading, error, lastFetched, refresh: fetchLog, rawMarkdown, copyFreshLog, copying };
 }
 
 // ─── DEMO DATA ────────────────────────────────────────────────────────────────

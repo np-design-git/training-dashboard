@@ -1,34 +1,16 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import fs from 'fs';
-import path from 'path';
+import { parsePastedLog, appendToLog } from './src/utils/appendLog.js';
 
-// Load backend-only env (Claude/API keys, log URL, etc.)
 dotenv.config({ path: './.backend.env' });
 
 const app = express();
 const PORT = process.env.PORT || 8787;
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-const LOG_URL = process.env.LOG_URL;
-
-// Helper to read config files safely
-const CONFIG_DIR = path.join(process.cwd(), 'coach-config');
-function readConfigFile(filename) {
-  try {
-    const fullPath = path.join(CONFIG_DIR, filename);
-    return fs.readFileSync(fullPath, 'utf8');
-  } catch (err) {
-    console.warn(`Could not read config file ${filename}:`, err.message);
-    return '';
-  }
-}
-
-// Load static config docs once at startup
-const SYSTEM_PROMPT = readConfigFile('system-prompt.md');
-const ATHLETE_PROFILE = readConfigFile('athlete-profile.md');
-const TRAINING_LOG_TEMPLATE = readConfigFile('training-log-template.md');
-const NUTRITION_PLAN = readConfigFile('nutrition-plan.md');
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_REPO = process.env.GITHUB_REPO;
+const GITHUB_FILE_PATH = process.env.GITHUB_FILE_PATH || 'training_log_active.md';
+const GITHUB_BRANCH = process.env.GITHUB_BRANCH || 'main';
 
 app.use(cors({
   origin: 'http://localhost:5173',
@@ -38,109 +20,84 @@ app.use(cors({
 
 app.use(express.json());
 
-// Simple health check
+function githubHeaders() {
+  return {
+    Authorization: `Bearer ${GITHUB_TOKEN}`,
+    Accept: 'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28',
+  };
+}
+
+async function fetchFileFromGitHub() {
+  const url = `https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FILE_PATH}?ref=${GITHUB_BRANCH}`;
+  const res = await fetch(url, { headers: githubHeaders() });
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`GitHub fetch failed (${res.status}): ${err}`);
+  }
+  const data = await res.json();
+  const content = Buffer.from(data.content, 'base64').toString('utf8');
+  return { content, sha: data.sha };
+}
+
+async function commitFileToGitHub(content, sha, message) {
+  const url = `https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FILE_PATH}`;
+  const res = await fetch(url, {
+    method: 'PUT',
+    headers: { ...githubHeaders(), 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      message,
+      content: Buffer.from(content, 'utf8').toString('base64'),
+      sha,
+      branch: GITHUB_BRANCH,
+    }),
+  });
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`GitHub commit failed (${res.status}): ${err}`);
+  }
+  return res.json();
+}
+
 app.get('/health', (_req, res) => {
   res.json({
     ok: true,
-    hasApiKey: Boolean(ANTHROPIC_API_KEY),
-    hasSystemPrompt: Boolean(SYSTEM_PROMPT.trim()),
+    hasGitHubToken: Boolean(GITHUB_TOKEN),
+    hasGitHubRepo: Boolean(GITHUB_REPO),
   });
 });
 
-// Helper: call Anthropic Messages API
-async function callClaude(messagesFromClient) {
-  if (!ANTHROPIC_API_KEY) {
-    throw new Error('ANTHROPIC_API_KEY is not set');
-  }
-
-  // Fetch current active training log markdown
-  let activeLog = '';
-  if (LOG_URL) {
-    try {
-      const res = await fetch(`${LOG_URL}?t=${Date.now()}`);
-      if (!res.ok) {
-        throw new Error(`Failed to fetch log: ${res.status}`);
-      }
-      activeLog = await res.text();
-    } catch (err) {
-      console.warn('Could not fetch active training log:', err.message);
-    }
-  }
-
-  // Build context message that bundles your docs + active log
-  const contextTextParts = [];
-  if (ATHLETE_PROFILE.trim()) {
-    contextTextParts.push('Athlete profile:\n\n' + ATHLETE_PROFILE);
-  }
-  if (TRAINING_LOG_TEMPLATE.trim()) {
-    contextTextParts.push('\n\nTraining log template:\n\n' + TRAINING_LOG_TEMPLATE);
-  }
-  if (NUTRITION_PLAN.trim()) {
-    contextTextParts.push('\n\nNutrition plan and supplements:\n\n' + NUTRITION_PLAN);
-  }
-  if (activeLog) {
-    contextTextParts.push('\n\nActive training log (markdown):\n\n' + activeLog);
-  }
-
-  const contextMessage = {
-    role: 'user',
-    content: [
-      {
-        type: 'text',
-        text: contextTextParts.join('\n\n'),
-      },
-    ],
-  };
-
-  // Map frontend messages into Claude format
-  const chatMessages = (Array.isArray(messagesFromClient) ? messagesFromClient : []).map(m => ({
-    role: m.role === 'assistant' ? 'assistant' : 'user',
-    content: [{ type: 'text', text: m.content ?? '' }],
-  }));
-
-  const body = {
-    model: 'claude-3-5-sonnet-latest',
-    max_tokens: 800,
-    system: SYSTEM_PROMPT || 'You are a training coach for Natalia. Follow the attached documents and logs.',
-    messages: [contextMessage, ...chatMessages],
-  };
-
-  const response = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': ANTHROPIC_API_KEY,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify(body),
-  });
-
-  if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(`Claude API error ${response.status}: ${errorText}`);
-  }
-
-  const data = await response.json();
-  const contentBlocks = data.content || [];
-  const firstTextBlock = contentBlocks.find(b => b.type === 'text');
-  const replyText = firstTextBlock?.text || '(no text in Claude response)';
-
-  return replyText;
-}
-
-// Coach chat endpoint: proxy to Claude with your config + log
-app.post('/api/coach-chat', async (req, res) => {
+app.post('/api/append-log', async (req, res) => {
   try {
-    const { messages } = req.body || {};
-    const reply = await callClaude(messages);
-    res.json({ reply });
+    if (!GITHUB_TOKEN || !GITHUB_REPO) {
+      return res.status(500).json({ error: 'GITHUB_TOKEN and GITHUB_REPO must be set in .backend.env' });
+    }
+
+    const { text } = req.body || {};
+    if (!text?.trim()) {
+      return res.status(400).json({ error: 'No text provided' });
+    }
+
+    const parsed = parsePastedLog(text);
+    const { content, sha } = await fetchFileFromGitHub();
+    const updated = appendToLog(content, parsed);
+    await commitFileToGitHub(updated, sha, 'Add training log entry via dashboard');
+
+    res.json({
+      ok: true,
+      inserted: {
+        tableRows: parsed.tableRows.length,
+        sessionBlocks: parsed.sessionBlocks.length,
+      },
+    });
   } catch (err) {
-    console.error('Coach chat error:', err);
-    res.status(500).json({ error: 'Coach backend error: ' + err.message });
+    console.error('Append log error:', err);
+    res.status(err.message.includes('detected') || err.message.includes('Nothing') ? 400 : 500).json({
+      error: err.message,
+    });
   }
 });
 
 app.listen(PORT, () => {
-  console.log(`Local coach backend listening on http://localhost:${PORT}`);
+  console.log(`Log backend listening on http://localhost:${PORT}`);
 });
-

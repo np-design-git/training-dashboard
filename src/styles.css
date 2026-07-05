@@ -77,7 +77,11 @@ body {
   align-items: flex-end;
   gap: 6px;
 }
-.refresh-btn {
+.header-actions {
+  display: flex;
+  gap: 8px;
+}
+.header-btn {
   font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.1em;
@@ -88,8 +92,13 @@ body {
   cursor: pointer;
   transition: all 0.15s;
 }
-.refresh-btn:hover { border-color: var(--accent); color: var(--accent); }
-.refresh-btn:disabled { opacity: 0.4; cursor: default; }
+.header-btn:hover { border-color: var(--accent); color: var(--accent); }
+.header-btn:disabled { opacity: 0.4; cursor: default; }
+.copy-error {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--accent);
+}
 .last-updated {
   font-family: var(--font-mono);
   font-size: 10px;
@@ -603,6 +612,11 @@ body {
   font-family: var(--font-mono);
   font-size: 11px;
   color: var(--accent);
+}
+.coach-chat-success {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: #4ecdc4;
 }
 
 /* ─── RESPONSIVE ─────────────────────────────────────────────────────────────── */
