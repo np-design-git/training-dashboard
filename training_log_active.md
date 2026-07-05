@@ -52,6 +52,16 @@
 ## ENTRIES — NEWEST FIRST
 
 
+
+---
+DATE: DD.MM.YYYY
+TYPE: Rest day
+OURA: [score] | CYCLE DAY: [number or unknown]
+ACTIVITY: [full rest / walk / light swim / stretch only]
+
+FLAGS: [fatigue / illness / hip pain / scar sensitivity / none]
+NOTES: [anything relevant for tomorrow's training decision]
+---
 ---
 DATE: 04.07.2026
 SESSION: Upper Body
