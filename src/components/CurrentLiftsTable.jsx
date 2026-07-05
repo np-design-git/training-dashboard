@@ -1,14 +1,4 @@
-const LIFT_DEFS = [
-  { key: 'deadlift', label: 'Deadlift', target: '50 kg' },
-  { key: 'slDL', label: 'SL Deadlift', target: '20 kg' },
-  { key: 'frontSquat', label: 'Front Squat', target: '30 kg' },
-  { key: 'bulgarianSS', label: 'Bulgarian Split Squat', target: '16 kg' },
-  { key: 'rdl', label: 'Romanian Deadlift', target: '45 kg' },
-  { key: 'hipThrust', label: 'Hip Thrust', target: '40 kg' },
-  { key: 'row', label: 'Seated Row', target: '35 kg' },
-  { key: 'ohp', label: 'OH Press (DB)', target: '12 kg' },
-  { key: 'pullups', label: 'Pull-ups', target: '3–5 strict' },
-];
+import { LIFT_CONFIG } from '../config/lifts';
 
 export default function CurrentLiftsTable({ lifts, compact }) {
   return (
@@ -23,7 +13,7 @@ export default function CurrentLiftsTable({ lifts, compact }) {
         </tr>
       </thead>
       <tbody>
-        {LIFT_DEFS.map(({ key, label, target }) => {
+        {LIFT_CONFIG.map(({ key, label, target }) => {
           const lift = lifts[key];
           const weight = lift
             ? lift.bodyweight
@@ -32,7 +22,9 @@ export default function CurrentLiftsTable({ lifts, compact }) {
               ? `${lift.reps} strict`
               : `${lift.weight} kg`
             : null;
-          const reps = lift && !lift.bodyweight && !lift.strict ? `× ${lift.reps}` : '';
+          const reps = lift && !lift.bodyweight && !lift.strict && !lift.approximate && lift.reps
+            ? `× ${lift.reps}`
+            : '';
 
           return (
             <tr key={key}>

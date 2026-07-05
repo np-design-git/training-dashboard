@@ -31,9 +31,9 @@ export function parseWeightReps(str) {
   // Format: "1 strict" (pull-ups)
   m = str.match(/^(\d+)\s*strict/i);
   if (m) return { weight: 0, reps: parseInt(m[1]), strict: true };
-  // Format: "4 strict" 
-  m = str.match(/^(\d+)/);
-  if (m) return { weight: 0, reps: parseInt(m[1]) };
+  // Format: "40kg (12-10-12, uneven)" — weight only
+  m = str.match(/(\d+(?:\.\d+)?)kg/);
+  if (m) return { weight: parseFloat(m[1]), reps: 0, approximate: true };
   return null;
 }
 
@@ -65,6 +65,9 @@ export function parseKeyLiftsTable(markdown) {
     'OH Press (DB)': 'ohp',
     Row: 'row',
     'Seated Row': 'row',
+    'Cable Row': 'row',
+    'Lat Pull': 'latPull',
+    'DB Bent Row': 'dbBentRow',
     'Pull-ups': 'pullups',
   };
 
@@ -89,7 +92,9 @@ export function parseKeyLiftsTable(markdown) {
       rdl: null,
       hipThrust: null,
       ohp: null,
+      latPull: null,
       row: null,
+      dbBentRow: null,
       pullups: null,
       rpe: row['RPE'],
     };
@@ -197,7 +202,8 @@ export function buildLiftProgression(liftsData, liftKey) {
 export function getCurrentLifts(liftsData) {
   const lifts = {
     deadlift: null, slDL: null, frontSquat: null, bulgarianSS: null,
-    rdl: null, hipThrust: null, ohp: null, row: null, pullups: null,
+    rdl: null, hipThrust: null, ohp: null, latPull: null, row: null,
+    dbBentRow: null, pullups: null,
   };
 
   // Go through sorted data (oldest first) and overwrite with latest non-null

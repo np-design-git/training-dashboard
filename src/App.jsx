@@ -1,6 +1,7 @@
 import { useState, useRef } from 'react';
 import { useTrainingLog } from './hooks/useTrainingLog';
 import LiftProgressionChart from './components/LiftProgressionChart';
+import { LIFT_CONFIG } from './config/lifts';
 import WeeklyVolumeChart from './components/WeeklyVolumeChart';
 import CurrentLiftsTable from './components/CurrentLiftsTable';
 import SurfSkateLog from './components/SurfSkateLog';
@@ -149,17 +150,6 @@ function OverviewTab({ data }) {
 
 function LiftsTab({ data }) {
   const { liftsData, currentLifts } = data;
-  const LIFTS = [
-    { key: 'deadlift', label: 'Deadlift', target: '50kg', color: '#e63946' },
-    { key: 'frontSquat', label: 'Front Squat', target: '30kg', color: '#f4a261' },
-    { key: 'rdl', label: 'Romanian Deadlift', target: '45kg', color: '#2a9d8f' },
-    { key: 'hipThrust', label: 'Hip Thrust', target: '40kg', color: '#e9c46a' },
-    { key: 'slDL', label: 'SL Deadlift', target: '20kg', color: '#264653' },
-    { key: 'bulgarianSS', label: 'Bulgarian Split Squat', target: '16kg', color: '#6a4c93' },
-    { key: 'row', label: 'Seated Row', target: '35kg', color: '#1b7a8d' },
-    { key: 'ohp', label: 'OH Press (DB)', target: '12kg', color: '#c77dff' },
-    { key: 'pullups', label: 'Pull-ups', target: '3–5 strict', color: '#f72585', useReps: true },
-  ];
 
   return (
     <div className="tab-content">
@@ -168,7 +158,7 @@ function LiftsTab({ data }) {
           Each chart shows progression from post-surgery baseline (weights in kg, except Pull-ups which tracks strict reps). Targets = 6–9 month return goals.
         </p>
         <div className="lifts-grid">
-          {LIFTS.map(lift => (
+          {LIFT_CONFIG.map(lift => (
             <LiftProgressionChart
               key={lift.key}
               label={lift.label}
