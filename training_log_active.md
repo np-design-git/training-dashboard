@@ -50,6 +50,22 @@
 ## ENTRIES — NEWEST FIRST
 
 
+
+---
+DATE: 05.07.2026
+SESSION: Skate
+OURA: 83 | CYCLE DAY: 18
+
+DURATION: 1h 19min
+CONDITIONS: not recorded
+INTENSITY: moderate
+AVG HR: 119 bpm | PEAK HR: 149 bpm
+ZONE SPLIT (Oura Bereich bands): Bereich 0: 17min | Bereich 1: 29min | Bereich 2: 38min | Bereich 3: 21min | Bereich 4: 0min | Bereich 5: 0min
+ACTIVE CALORIES: 400 kcal
+
+FLAGS: none
+NOTES: Predominantly Bereich 2 (38min) — moderate sustained effort, some Bereich 3 exposure (21min), no Bereich 4/5. Comparable profile to previous skate sessions.
+---
 ---
 DATE: 04.07.2026
 SESSION: Upper Body
