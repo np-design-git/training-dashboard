@@ -38,7 +38,7 @@ export default function App() {
         <div className="header-left">
           <div className="athlete-tag">ATHLETE</div>
           <h1 className="athlete-name">NATALIA<span className="name-accent">.</span></h1>
-          <div className="header-sub">Training Dashboard · Mar 2026</div>
+          <div className="header-sub">Training Dashboard</div>
         </div>
         <div className="header-right">
           <div className="header-actions">
@@ -102,17 +102,17 @@ function OverviewTab({ data }) {
   // Quick stats over full history
   const totalStrength = weeklyVolume.reduce((a, w) => a + w.strength, 0);
   const totalCardio = weeklyVolume.reduce((a, w) => a + w.cardio, 0);
-  const totalSurf = weeklyVolume.reduce((a, w) => a + (w.surf || 0) + (w.skate || 0), 0);
-  const latestOura = ouraTrend.length ? ouraTrend[ouraTrend.length - 1].score : null;
+  const totalSurf = weeklyVolume.reduce((a, w) => a + (w.surf || 0), 0);
+  const totalSkate = weeklyVolume.reduce((a, w) => a + (w.skate || 0), 0);
 
   return (
     <div className="tab-content">
       {/* Stats row */}
       <div className="stats-row">
-        <StatCard label="Oura Today" value={latestOura ?? '—'} unit="" accent={latestOura < 65 ? 'red' : latestOura >= 80 ? 'green' : 'yellow'} />
         <StatCard label="Strength" value={totalStrength} unit="sessions (all time)" />
         <StatCard label="Cardio" value={totalCardio} unit="sessions (all time)" />
-        <StatCard label="Surf + Skate" value={totalSurf} unit="sessions (all time)" />
+        <StatCard label="Surf" value={totalSurf} unit="sessions (all time)" />
+        <StatCard label="Skate" value={totalSkate} unit="sessions (all time)" />
       </div>
 
       {/* Key lifts snapshot */}
