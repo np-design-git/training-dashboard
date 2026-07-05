@@ -54,15 +54,6 @@
 
 
 ---
-DATE: DD.MM.YYYY
-TYPE: Rest day
-OURA: [score] | CYCLE DAY: [number or unknown]
-ACTIVITY: [full rest / walk / light swim / stretch only]
-
-FLAGS: [fatigue / illness / hip pain / scar sensitivity / none]
-NOTES: [anything relevant for tomorrow's training decision]
----
----
 DATE: 04.07.2026
 SESSION: Upper Body
 OURA: 82 | CYCLE DAY: 17
@@ -90,7 +81,7 @@ DURATION: 90 min
 FLAGS: OHP push-press compensation on BOTH sides Sets 2–3 (not left-only as usual) — likely fatigue from extra Lat Pull volume, not a new asymmetry pattern. Confirm next session with fresh arms.
 NOTES: Strong return session after 22-day strength layoff (last UB 09.06, only surf/skate/pilates in between). Cable Row and Lat Pull both hit new confirmed working weights — held here rather than pushing further given RPE 9 and this morning's Oura fatigue flag. OHP left-first + isolation-finisher protocol formally introduced today — continue every UB session going forward. Full core block completed for first time in 3+ sessions, Plank progressed to 60s — Natalia reports core getting noticeably stronger. Priority: keep core block non-negotiable, don't let it slip again.
 ---
----
+
 DATE: 30.06.2026
 SESSION: Surf
 OURA: 80 | CYCLE DAY: 13
