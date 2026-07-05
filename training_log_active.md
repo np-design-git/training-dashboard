@@ -12,6 +12,7 @@
 
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Seated Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|------------|----------|-----|
+| 04.07.2026 | — | — | — | — | — | — | 12.5kg×10* | 40kg×8 | 3 strict | 9 |
 | 12.06.2026 | — | — | 30kg×8 | 15kg×8 | 45kg×8 | — | — | — | — | 7–8 |
 | 09.06.2026 | — | — | — | — | — | — | 12.5kg×10* | — | 3 strict | 7 |
 | 30.05.2026 | — | — | — | — | — | — | 12.5kg×8 | 37.5kg×12 | — | 8 |
@@ -50,8 +51,154 @@
 
 ## ENTRIES — NEWEST FIRST
 
-Hier ist der komplette Log-Eintrag zum Einfügen:
 ---
+DATE: 04.07.2026
+SESSION: Upper Body
+OURA: 82 | CYCLE DAY: 17
+
+WARM-UP
+5 min rowing easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+Seated Cable Row: 20kg×8 (ramp), 30kg×6 (ramp), 1×8 @ 40kg — tough but full clean reps, NEW PR (up from 37.5kg)
+Push-ups: 3×12 @ BW strict flat
+
+BLOCK 2
+Lat Pull: 30kg×8 (ramp), 35kg×6 (ramp), 3×8 @ 42.5kg — clean, 1–2 RIR, new working weight (up from 40kg)
+One-Arm OHP: 3×10 @ 12.5kg — Set 1 clean both sides (left first); Sets 2–3 push press BOTH sides reps 8–10; + left isolation finisher 1×6 @ 10kg, 3-sec eccentric
+Pull-ups: 3×3 strict — technique not fully clean yet
+
+CORE BLOCK
+Pallof Press: 3×12/side, medium band
+Dead Bug: 3×12/side @ 5kg
+Plank: 1×60s — progression from 45s
+
+RPE: 9
+DURATION: 90 min
+FLAGS: OHP push-press compensation on BOTH sides Sets 2–3 (not left-only as usual) — likely fatigue from extra Lat Pull volume, not a new asymmetry pattern. Confirm next session with fresh arms.
+NOTES: Strong return session after 22-day strength layoff (last UB 09.06, only surf/skate/pilates in between). Cable Row and Lat Pull both hit new confirmed working weights — held here rather than pushing further given RPE 9 and this morning's Oura fatigue flag. OHP left-first + isolation-finisher protocol formally introduced today — continue every UB session going forward. Full core block completed for first time in 3+ sessions, Plank progressed to 60s — Natalia reports core getting noticeably stronger. Priority: keep core block non-negotiable, don't let it slip again.
+---
+---
+DATE: 30.06.2026
+SESSION: Surf
+OURA: 80 | CYCLE DAY: 13
+
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: —
+---
+
+DATE: 29.06.2026
+SESSION: Surf
+OURA: 79 | CYCLE DAY: 12
+
+DURATION: 2h 30min
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 472 kcal
+
+FLAGS: none
+NOTES: Longest surf session of this stretch — 2.5h.
+---
+
+DATE: 28.06.2026
+SESSION: Skate
+OURA: 88 | CYCLE DAY: 11
+
+DURATION: 1h 43min
+CONDITIONS: not recorded
+INTENSITY: moderate
+AVG HR: 105 bpm
+ZONE SPLIT (approx, Oura Bereich bands): Bereich 0: 28min | Bereich 1: 44min | Bereich 2: 35min | Bereich 3: 9min
+ACTIVE CALORIES: 404 kcal
+
+FLAGS: none
+NOTES: Oura 88 (Optimal) that morning — best readiness of this stretch.
+---
+
+DATE: 24.06.2026
+SESSION: Skate
+OURA: 77 | CYCLE DAY: 7
+
+DURATION: 1h 40min
+CONDITIONS: not recorded
+INTENSITY: moderate
+AVG HR: 110 bpm
+ZONE SPLIT (approx): Bereich 0: 13min | Bereich 1: 44min | Bereich 2: 47min | Bereich 3: 6min
+ACTIVE CALORIES: 392 kcal
+
+FLAGS: none
+NOTES: —
+---
+
+DATE: 22.06.2026
+SESSION: Skate
+OURA: 85 | CYCLE DAY: 5
+
+DURATION: 1h 37min
+CONDITIONS: not recorded
+INTENSITY: moderate–hard
+AVG HR: 114 bpm
+ZONE SPLIT (approx): Bereich 0: 1min | Bereich 1: 30min | Bereich 2: 54min | Bereich 3: 10min
+ACTIVE CALORIES: 356 kcal
+
+FLAGS: none
+NOTES: Highest avg HR of the skate sessions this stretch — more Bereich 2/3 time than usual.
+---
+
+DATE: 20.06.2026
+SESSION: Surf
+OURA: not recorded | CYCLE DAY: 3
+
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+DISTANCE: 2.86 km
+
+FLAGS: none
+NOTES: —
+---
+
+DATE: 15.06.2026
+SESSION: Pilates
+OURA: 83 | 
+
+DURATION: 55min
+AVG HR: 98 bpm
+ACTIVE CALORIES: 125 kcal
+ZONE SPLIT (approx): Bereich 0: 16min | Bereich 1: 27min | Bereich 2: 12min
+
+FLAGS: none
+NOTES: No dedicated template for Pilates — logged here as general session so it's not lost from the record.
+---
+
+DATE: 13.06.2026
+SESSION: Skate
+OURA: 72 | 
+
+DURATION: 1h 14min
+CONDITIONS: not recorded
+INTENSITY: moderate–hard
+AVG HR: 114 bpm
+ZONE SPLIT (approx): Bereich 1: 21min | Bereich 2: 45min | Bereich 3: 7min
+ACTIVE CALORIES: 244 kcal
+
+FLAGS: elevated resting HR/temperature per Oura factors that day (Ruhepuls 50, "Mittelmäßig" Körpertemperatur) — recovery signal slightly off
+NOTES: —
+---
+
 DATE: 12.06.2026
 SESSION: Lower Body II
 OURA: 80 | CYCLE DAY: 22
