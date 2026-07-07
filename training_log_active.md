@@ -51,6 +51,50 @@
 
 
 
+
+---
+DATE: 07.07.2026
+SESSION: Lower Body I
+OURA: 76 | CYCLE DAY: 20
+
+WARM-UP
+5 min cycle easy
+Dead bugs + kickbacks — core and glute activation
+
+BLOCK 1
+Deadlift: 3×12 @ 45kg — new rep PR at this weight (up from 2×10)
+Squat Jumps (rotation): 3×12 @ BW
+
+BLOCK 2
+Single-Leg Deadlift: 3×8 @ 17.5kg — weight increase (up from 16kg),
+rep reset. Right side challenging to keep stable — "press through heel"
+cue helped. Left side = known flag; right side stability gap noted, monitor.
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat: 3×10 @ 15kg — deviated from prescription (4×12 @ +10kg):
+heavier weight but -1 set, -2 reps. Hold at 15kg, rebuild to 4×12.
+TRX Hamstring Curl: 3×10 @ BW — 2 reps short of target. Hold BW,
+target 12 next session.
+
+CORE BLOCK
+Back Extensions: 3×60s @ BW
+HLR: 2×6 @ BW — FIRST REINTRODUCTION confirmed clean. Zero scar
+sensation. New baseline established.
+
+RPE: 8
+DURATION: 90 min
+FLAGS: Post-session back soreness / "zieht im Rücken" when stretching —
+expected after 3×12 DL + 3×60s back extensions. Symmetric, likely
+fatigue. Monitor. Right SL-DL stability gap — new observation, not
+alarming at weight reset, carry forward.
+NOTES: Deadlift 3×12 @ 45kg confirmed — significant step up from 2×10.
+Next LB I: hold 45kg, aim clean 3×12 again then reassess for weight
+increase. SL-DL at 17.5kg — hold at 8 reps, build 8→10→12 before
+next increase. Spanish Squat and TRX Curl both below prescription —
+new targets: Spanish Squat 4×12 @ 15kg, TRX 3×12 BW. HLR baseline:
+2×6, build by 1–2 reps per session when clean.
+---
 ---
 DATE: 05.07.2026
 SESSION: Skate
