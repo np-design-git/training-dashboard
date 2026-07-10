@@ -54,6 +54,46 @@
 
 
 
+
+---
+DATE: 10.07.2026
+SESSION: Upper Body
+OURA: 86 | CYCLE DAY: 23
+
+WARM-UP
+5 min rowing easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+Seated Cable Row: 20kg×8 (ramp), 30kg×6 (ramp), 3×10 @ 40kg — as prescribed, RPE 7
+Push-ups: 3×12 @ BW strict flat
+
+BLOCK 2
+Lat Pull: 30kg×8 (ramp), 35kg×6 (ramp), 3×10 @ 42.5kg — as prescribed, RPE 8
+One-Arm OHP: 7.5kg×8 (ramp), 3×10 @ 12.5kg — Sets 1–2 clean both sides
+(left first); Set 3: left push press reps 8–10, right clean throughout. RPE 9
+Left isolation finisher: 1×6 @ 10kg, 3s eccentric
+Pull-ups: SKIPPED — lats/biceps fatigued after Lat Pull 3×10 @ RPE 8;
+technique would have been compromised. Sequencing fix due: move pull-ups
+to before Lat Pull working sets in all future UB sessions.
+
+CORE BLOCK
+Pallof Press: 3×12/side @ medium band
+Dead Bug: 3×12/side @ 7.5kg — progression from 5kg
+Plank: 1×60s @ BW
+
+RPE: 8
+DURATION: 80 min
+FLAGS: OHP left asymmetry — push press Set 3 reps 8–10 left only, right
+clean throughout. Consistent pattern, not fatigue-driven (right stayed
+clean = left weakness, not systemic fatigue). Isolation finisher protocol
+continues.
+NOTES: Cable Row 3×10 @ 40kg RPE 7 — next UB: 3×12 @ 40kg. Lat Pull
+3×10 @ 42.5kg RPE 8 — hold, build to 3×12. OHP holds at 12.5kg —
+isolation finisher every UB session non-negotiable. Dead Bug progressed
+to 7.5kg — update profile Section 8.3. Pull-up sequencing fix: move to
+before Lat Pull working sets going forward.
+---
 ---
 DATE: 07.07.2026
 SESSION: Lower Body I
