@@ -58,6 +58,26 @@
 
 
 
+
+---
+DATE: 11.07.2026
+SESSION: Skate
+OURA: 71 | CYCLE DAY: 24
+
+DURATION: 1h 7min
+CONDITIONS: not recorded
+INTENSITY: moderate — progressive build
+AVG HR: 113 bpm | PEAK HR: ~150 bpm
+ZONE SPLIT (Oura Bereich bands): Bereich 0: 42min | Bereich 1: 26min |
+Bereich 2: 22min | Bereich 3: 13min | Bereich 4: 0min | Bereich 5: 0min
+1min no HR data
+ACTIVE CALORIES: 351 kcal
+
+FLAGS: Oura 71 — below 75, Fair category. CD24 late luteal.
+NOTES: Standalone skate session. HR profile shows progressive build,
+predominantly Bereich 0/1 with meaningful Bereich 3 exposure (13min)
+late in session. Consistent with previous skate profiles.
+---
 ---
 DATE: 11.07.2026
 SESSION: Skate
