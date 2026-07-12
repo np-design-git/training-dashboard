@@ -60,6 +60,40 @@
 
 
 
+
+---
+DATE: 12.07.2026
+SESSION: Lower Body II
+OURA: 77 | CYCLE DAY: 25
+
+WARM-UP
+Hip + Knee Sequence komplett im Gym (inkl. 6kg Calf Raises)
+
+BLOCK 1
+Front Squat: 15kg×8 (ramp), 22kg×6 (ramp), 3×10 @ 30kg — 2–3 RIR, RPE 7
+Split Lunges: 3×20 @ BW
+
+BLOCK 2
+Bulgarian Split Squat: 8kg×6 (ramp), 3×10 @ 15kg — clean, RPE 7
+Box Jump Rotation: 3×8 @ BW — clean landing
+
+BLOCK 3
+RDL: 30kg×10 (ramp), 37.5kg×8 (ramp), 3×10 @ 45kg — as prescribed
+Hip Thrust: 20kg×10 (ramp), 30kg×8 (ramp), 3×12 @ 45kg — Beine brennen
+Ende Satz 3, RPE 8–9. Return-PR nach 3 Monaten ohne Arbeitssätze.
+
+CORE BLOCK (zuhause, Gym geschlossen)
+Pallof Press: 3×12/Seite @ medium Band
+Side Plank L/R: 3×45s each
+
+RPE: 7–8
+FLAGS: none
+NOTES: Front Squat 3×10 @ 30kg mit 2–3 RIR — nächste LB II: 3×12 @ 30kg.
+BSS 3×10 @ 15kg RPE 7 — nächste LB II: 3×12 @ 15kg.
+RDL 3×10 @ 45kg — nächste LB II: 3×12 @ 45kg.
+Hip Thrust 3×12 @ 45kg — weit über konservativem Return-Ziel (35kg).
+Nächste LB II: 45kg nochmal bestätigen bei 3×12, dann reassessen.
+---
 ---
 DATE: 11.07.2026
 SESSION: Skate
