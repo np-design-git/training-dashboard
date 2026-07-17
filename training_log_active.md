@@ -63,6 +63,22 @@
 
 
 
+
+---
+DATE: 15.07.2026
+SESSION: Surf
+OURA: 76 | CYCLE DAY: 28
+
+DURATION: 2h
+CONDITIONS: wind, choppy, but still good
+INTENSITY: moderate
+POP-UP QUALITY: good
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: Teluk Gerupuk. Distanz/Speed ignoriert — Bootfahrt zu den Breaks verfälscht die Werte.
+---
 ---
 DATE: 12.07.2026
 SESSION: Lower Body II
