@@ -65,6 +65,35 @@
 
 
 
+
+---
+DATE: 17.07.2026
+SESSION: Lower Body I
+OURA: — | CYCLE DAY: 2
+
+BLOCK 1
+Deadlift: 3×12 @ 45kg — RPE 7, gute Speed und Technik. Bereit für Gewichtserhöhung.
+Squat Jumps: SKIPPED — CD2, Kraft-only
+
+BLOCK 2 + 3 (Superset)
+SL-DL: 3×10 @ 17.5kg — alle Reps clean beide Seiten, keine Flags rechts
+Spanish Squat (band): 3×12 @ 15kg — RPE 8, clean (3 Sätze statt 4 — praktischer, Reps auf Ziel)
+Machine Leg Curl: 3×10 @ 25kg — RPE 7, Eccentric 3sec, erste Session auf Maschine, saubere Technik
+Burpee Box Jumps: SKIPPED — CD2
+
+CORE BLOCK
+Back Extensions: SKIPPED — Surf morgen, Rücken schonen
+HLR: SKIPPED — CD2
+Pull-ups: 3×3 strict @ BW — beste Technik bisher, Finisher
+
+RPE: 7–8
+FLAGS: none
+NOTES: Deadlift 3×12 @ 45kg RPE 7 — nächste LB I: 3×8 @ 47.5kg (Gewichtssprung, Rep-Reset).
+SL-DL 3×10 @ 17.5kg clean — nächste LB I: 3×12 @ 17.5kg.
+Spanish Squat 3×12 @ 15kg RPE 8 — nächste LB I: 3×12 @ 17.5kg.
+Machine Leg Curl erste Session: 3×10 @ 25kg RPE 7 mit Eccentric — nächste LB I: 3×12 @ 25kg.
+Pull-ups 3×3 strict — beste Technik bisher.
+---
 ---
 DATE: 15.07.2026
 SESSION: Skate
