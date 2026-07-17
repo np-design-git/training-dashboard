@@ -64,6 +64,23 @@
 
 
 
+
+---
+DATE: 15.07.2026
+SESSION: Skate
+OURA: 76 | CYCLE DAY: 28
+
+DURATION: 1h 20min
+INTENSITY: moderate
+AVG HR: 97 bpm | PEAK HR: 136 bpm
+ACTIVE CALORIES: 287 kcal
+
+ZONE SPLIT:
+Z0: 42min | Z1: 53min | Z2: 8min | Z3–5: 0min
+
+FLAGS: none
+NOTES: Überwiegend Zone 1 — aerob müde von surf session davor.
+---
 ---
 DATE: 15.07.2026
 SESSION: Surf
