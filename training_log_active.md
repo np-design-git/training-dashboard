@@ -68,6 +68,22 @@
 
 
 
+
+---
+DATE: 18.07.2026
+SESSION: Surf
+OURA: 83 | CYCLE DAY: 3
+
+DURATION: 2h
+CONDITIONS: choppy, windy
+INTENSITY: moderate
+POP-UP QUALITY: good
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: Distanz/Speed ignoriert — Bootfahrt verfälscht Werte.
+---
 ---
 DATE: 17.07.2026
 SESSION: Lower Body I
