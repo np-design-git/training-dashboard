@@ -70,6 +70,47 @@
 
 
 
+
+---
+DATE: 20.07.2026
+SESSION: Upper Body
+OURA: 87 | CYCLE DAY: 5
+
+WARM-UP
+5 min rowing easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+Cable Row: 3×12 @ 40kg — RPE 7–8, as prescribed
+Push-ups: 3×12 @ BW strict flat
+
+BLOCK 2
+Pull-ups: 1×4+ strict — PR (up from 3×3 on 17.07). 4 clean + 1 partial.
+Lat Pull: 3×12 @ 42.5kg — RPE 9–10, first 6 reps easier,
+last cm of full ROM tough throughout. Hold weight.
+One-Arm OHP: 3×10 @ 12.5kg — left first each set.
+Set 1: clean both sides. Set 2: 9 strict left, rep 9 push press,
+right all strict. Set 3: 7 strict left, reps 8–12 push press, right all strict.
+Left isolation finisher: 1×6 @ 10kg, 3s eccentric
+
+CORE BLOCK
+Dead Bug: 1×12 @ 10kg (spontane Progression, kontrolliert, volle ROM),
+2×12 @ 7.5kg
+Pallof Press: 3×12/side @ medium band
+Plank: 1×60s
+
+RPE: 8
+DURATION: 80 min
+FLAGS: OHP left asymmetry — consistent pattern, Set 2 push press rep 9,
+Set 3 push press reps 8–12 left only. Right clean throughout.
+Isolation finisher protocol continues non-negotiable.
+NOTES: Cable Row 3×12 @ 40kg RPE 7–8 — Ladder komplett.
+Nächstes UB: 3×8 @ 42.5kg (Gewichtssprung, Rep-Reset).
+Lat Pull 3×12 @ 42.5kg RPE 9–10 — hold, nächstes UB nochmal 3×12 @ 42.5kg.
+OHP hält bei 12.5kg — links noch nicht stabil genug für Progression.
+Dead Bug: 1×12 @ 10kg clean — nächstes UB: alle 3 Sätze @ 10kg.
+Pull-ups PR: 4+ strict — bisher bester Satz.
+---
 ---
 DATE: 19.07.2026
 SESSION: Skate
