@@ -74,6 +74,23 @@
 
 
 
+
+---
+DATE: 22.07.2026
+SESSION: Skate
+OURA: 91 | CYCLE DAY: 7
+
+DURATION: 42 min
+INTENSITY: easy–moderate
+AVG HR: 99 bpm | PEAK HR: 129 bpm
+ACTIVE CALORIES: 141 kcal
+
+ZONE SPLIT:
+Z0: 14min | Z1: 18min | Z2: 10min | Z3: 0min
+
+FLAGS: none
+NOTES: Abend-Session nach 2h Surf morgens. Überwiegend Z1, kurze Z2-Spitzen — kein Regenerationsproblem für morgen.
+---
 ---
 DATE: 22.07.2026
 SESSION: Surf
