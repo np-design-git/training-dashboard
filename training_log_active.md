@@ -73,6 +73,22 @@
 
 
 
+
+---
+DATE: 22.07.2026
+SESSION: Surf
+OURA: 91 | CYCLE DAY: 7
+
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: Teluk Gerupuk. Surf + Skate gleicher Tag — Aktivitätsziel erreicht.
+---
 ---
 DATE: 20.07.2026
 SESSION: Upper Body
