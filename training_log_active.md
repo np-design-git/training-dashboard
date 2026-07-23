@@ -75,6 +75,22 @@
 
 
 
+
+---
+DATE: 23.07.2026
+SESSION: Surf
+OURA: 86 | CYCLE DAY: 8
+
+DURATION: 2h
+CONDITIONS: choppy, windy
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: Teluk Gerupuk. 2. Surf diese Woche (gestern + heute)
+---
 ---
 DATE: 22.07.2026
 SESSION: Skate
