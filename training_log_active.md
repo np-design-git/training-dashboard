@@ -77,6 +77,47 @@
 
 
 
+
+---
+DATE: 26.07.2026
+SESSION: Lower Body II
+OURA: 91 | CYCLE DAY: 11
+
+WARM-UP
+Hip + Knee Sequence komplett im Gym (inkl. 6kg SL Calf Raises)
+
+BLOCK 1
+Front Squat: 15kg×8 (ramp), 22kg×6 (ramp), 3×12 @ 30kg — 2–3 RIR, clean. Bereit für Gewichtserhöhung.
+Split Lunges: 3×20 @ BW
+
+Pull-up (zwischen Block 1 und 2): 1×5 strict — PR (up from 4+ on 20.07)
+
+BLOCK 2
+Bulgarian Split Squat: 8kg×6 (ramp), 3×12 @ 15kg — as prescribed, clean
+Box Jump Rotation: 3×8 @ BW
+
+Pull-up (zwischen Block 2 und 3): 1×5 strict — zweiter Satz, beide clean
+
+BLOCK 3
+RDL: DROPPED — Surf-Volumen 22–24.07 (3 Sessions)
+Hip Thrust: 20kg×8 (ramp), 30kg×6 (ramp), 3×10 @ 50kg — 2–3 RIR,
+saubere Technik, Gewicht über Prescription (45kg) eigenständig erhöht.
+
+CORE BLOCK
+Pallof Press: 3×12/side @ medium band
+KB Twist: 3×10/side @ 10kg — Gewichtssprung von 8kg, clean
+Side Plank L/R: 3×45s each
+
+RPE: 7–8
+FLAGS: none
+NOTES: Front Squat 3×12 @ 30kg mit 2–3 RIR bestätigt —
+nächste LB II: 3×8 @ 32.5kg (Gewichtssprung, Rep-Reset).
+BSS 3×12 @ 15kg clean — nächste LB II: 3×8 @ 17.5kg (Gewichtssprung, Rep-Reset).
+Hip Thrust 3×10 @ 50kg mit 2–3 RIR clean — nächste LB II: 3×12 @ 50kg (Reps aufbauen).
+RDL carried forward — nächste LB II: 3×12 @ 45kg.
+KB Twist Gewichtssprung auf 10kg, 3×10 clean — nächste LB II: 3×12 @ 10kg.
+Pull-up PR: 2×5 strict heute — signifikanter Sprung von 4+ (20.07).
+---
 ---
 DATE: 24.07.2026
 SESSION: Surf
