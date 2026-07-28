@@ -80,6 +80,41 @@
 
 
 
+
+---
+DATE: 28.07.2026
+SESSION: Upper Body
+OURA: 87 | CYCLE DAY: 13
+
+WARM-UP
+5 min rowing easy
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+
+BLOCK 1
+Cable Row: 3×8 @ 42.5kg — as prescribed, clean
+Push-ups: 3×12 @ BW strict
+
+BLOCK 2
+Pull-ups: 1×5 strict — PR matched on upper body day (vs LB II context 26.07)
+Lat Pull: 3×8 @ 45kg — weight jump from prescription (42.5kg), clean, RPE 8
+One-Arm OHP: 3×10 @ 12.5kg — all reps clean both sides, first fully clean
+set at this weight. Left push-press pattern absent for first time.
+Left isolation finisher: 1×6 @ 10kg, 3-sec eccentric
+
+CORE BLOCK
+Dead Bug: 3×12 @ 10kg
+Plank: 1×60s
+(Pallof Press skipped)
+
+RPE: 8
+DURATION: 70 min
+FLAGS: OHP — first fully clean 3×10 both sides at 12.5kg. Monitor next
+session to confirm pattern holds before progressing.
+NOTES: Pull-up sequencing fix maintained — 1×5 strict before Lat Pull,
+clean. Lat Pull 3×8 @ 45kg RPE 8, clean — nächstes UB: 3×10 @ 45kg.
+OHP milestone — if next session also clean, ready to progress to
+15kg × 8. Cable Row 3×8 @ 42.5kg — nächstes UB: 3×10 @ 42.5kg.
+---
 ---
 DATE: 26.07.2026
 SESSION: Lower Body II
