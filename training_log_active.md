@@ -84,6 +84,23 @@
 
 
 
+
+---
+DATE: 01.08.2026
+SESSION: Skate
+OURA: 81 | CYCLE DAY: 17
+
+DURATION: 1h 14min
+INTENSITY: moderate — überwiegend Zone 3
+AVG HR: 124 bpm
+ACTIVE CALORIES: 343 kcal
+
+ZONE SPLIT:
+Z1: 11min | Z2: 27min | Z3: 35min | Z4: 0min | Z5: 0min
+
+FLAGS: none
+NOTES: Längere Skate-Session, Z3-dominiert. Solider aktiver Erholungs- und Konditionsreiz.
+---
 ---
 DATE: 31.07.2026
 SESSION: Surf
