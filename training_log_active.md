@@ -13,7 +13,7 @@
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Lat Pull | Cable Row | DB Bent Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|----------|-----------|-------------|----------|-----|
 
-| 28.07.2026 | — | — | — | — | — | — | 12.5kg×10 ✓ | 45kg×8 | 42.5kg×8 | — | 5 strict | 8 |
+| 28.07.2026 | — | — | — | — | — | — | 12.5kg×10 | 45kg×8 | 42.5kg×8 | — | 5 strict | 8 |
 
 | 26.07.2026 | — | — | 30kg×12 | 15kg×12 | — | 50kg×10 | — | — | — | — | 5 strict | 7–8 |
 
@@ -104,16 +104,16 @@ NOTES: Längere Skate-Session, Z3-dominiert. Solider aktiver Erholungs- und Kond
 ---
 DATE: 31.07.2026
 SESSION: Surf
-OURA: [94] | CYCLE DAY: [16]
+OURA: 94 | CYCLE DAY: 16
 
 DURATION: 2h
-CONDITIONS: [small]
-INTENSITY: [moderate]
-POP-UP QUALITY: [good]
+CONDITIONS: small
+INTENSITY: moderate
+POP-UP QUALITY: good
 AVG HR: not recorded
 ACTIVE CALORIES: 377 kcal
 
-FLAGS: [none]
+FLAGS: none
 NOTES: Teluk Gerupuk.
 ---
 ---
