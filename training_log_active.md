@@ -87,6 +87,56 @@
 
 
 
+
+---
+DATE: 02.08.2026
+SESSION: Lower Body I
+OURA: 84 | CYCLE DAY: 18
+
+PULL-UP TEST (pre-session)
+Set 1: 5 strict + 1 failed — 5 clean, 6. Rep nicht sauber
+Set 2: 5 strict — gehalten
+Erste 2×5 strict als Doppelsatz bestätigt.
+
+BLOCK 1
+Deadlift: 25kg×8 (ramp), 35kg×6 (ramp), 3×8 @ 50kg — selbst
+progressed von 47.5kg (+5kg), alle Sätze clean, Set 3 das stärkste.
+Squat Jumps (rotation): 3×10 @ BW — as prescribed
+
+BLOCK 2
+SL-DL: 3×12 @ 17.5kg — clean, Grip limitierend bei 12 Reps.
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat (band): 3×8 @ 20kg — selbst progressed von 15kg
+(+5kg), clean. Prescribed war 17.5kg.
+Machine Leg Curl: 3×12 @ 25kg — Eccentric 3s, clean. Leiter
+komplett.
+
+CORE BLOCK
+Back Extensions: 1×60s @ BW — dann abgelöst wegen Rücken-Flag
+Plank: 2×60s @ BW — Ersatz Set 2+3 nach Back Extension Flag
+HLR: 2×8 @ BW — über Prescription (war 2×7)
+
+FINISHER
+Pull-ups: 1×5 strict — post-LB-Block, clean
+
+RPE: 7–8
+DURATION: —
+FLAGS: Rücken leicht steif nach Deadlift — Back Extensions nach Set 1
+abgebrochen, auf Plank gewechselt. Erwartet nach 3×8 @ 50kg.
+SL-DL Grip-Flag bei 17.5kg: Umstieg auf 2 Gewichte nächste Session.
+NOTES: Deadlift 3×8 @ 50kg clean — nächste LB I: 3×10 @ 50kg.
+SL-DL 3×12 @ 17.5kg — nächste LB I: 3×8 @ 2×10kg
+(Gewichtssprung + Grip-Umstieg auf 2 Gewichte, Rep-Reset).
+Spanish Squat 3×8 @ 20kg — nächste LB I: 3×10 @ 20kg.
+Machine Leg Curl 3×12 @ 25kg — nächste LB I: 3×8 @ 27.5kg
+(Gewichtssprung, Rep-Reset, Eccentric 3s).
+HLR 2×8 — nächste LB I: 2×10 @ BW.
+Pull-ups gesamt heute: 3×5 strict (2×5 pre-session + 1×5 post-LB).
+3×5 mit LB-Fatigue = Transition Threshold in Sicht.
+Nächstes UB: 3×6 strict testen.
+---
 ---
 DATE: 01.08.2026
 SESSION: Skate
