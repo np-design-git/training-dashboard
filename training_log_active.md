@@ -13,6 +13,8 @@
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Lat Pull | Cable Row | DB Bent Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|----------|-----------|-------------|----------|-----|
 
+| 02.08.2026 | 50kg×8 | 17.5kg×12 | — | — | — | — | — | — | — | — | 3×5 strict | 7–8 |
+
 | 28.07.2026 | — | — | — | — | — | — | 12.5kg×10 | 45kg×8 | 42.5kg×8 | — | 5 strict | 8 |
 
 | 26.07.2026 | — | — | 30kg×12 | 15kg×12 | — | 50kg×10 | — | — | — | — | 5 strict | 7–8 |
