@@ -90,6 +90,52 @@
 
 
 
+
+---
+DATE: 06.08.2026
+SESSION: Lower Body II
+OURA: 80 | CYCLE DAY: 22
+
+PULL-UP TEST (pre-session)
+Kein pre-session Test heute.
+
+BLOCK 1
+Front Squat: 15kg×8 (ramp), 22kg×6 (ramp), 3×10 @ 32kg —
+kein 32.5kg-Plate verfügbar, 10 Reps bei 32kg.
+Split Lunges: 3×20 @ BW
+
+BLOCK 2
+BSS: 8kg×6 (ramp), 3×8 @ 18kg — kein 17.5kg verfügbar,
+auf 18kg gerundet.
+Box Jump Rotation: GESTRICHEN — Reise-Modifikation (kein Plyo heute)
+
+BLOCK 3
+RDL: 30kg×10 (ramp), 37.5kg×8 (ramp), 3×12 @ 45kg — Leiter komplett.
+Hip Thrust: GESTRICHEN — Zeit
+
+CORE BLOCK: GESTRICHEN — Zeit
+
+POST-SESSION
+Pull-ups: 1×5 strict — nach Workout-Ende, auf akkumulierter
+LB II-Fatigue + Reisetag bestätigt.
+
+RPE: 7–8
+DURATION: 60 min
+FLAGS: 60min Zeitlimit (Reise-Tag München). Hip Thrust und Core
+erneut gestrichen — strukturelles Problem, nicht Zeitproblem.
+Hip Thrust muss nächste LB II als erstes in Block 3, vor RDL.
+NOTES:
+Front Squat 3×10 @ 32kg — nächste LB II: 3×12 @ 32kg,
+dann Sprung auf 35kg × 8.
+BSS 3×8 @ 18kg — nächste LB II: 3×10 @ 18kg.
+RDL 3×12 @ 45kg — Leiter komplett. Nächste LB II: 3×8 @ 47.5kg
+(Gewichtssprung, Rep-Reset).
+Hip Thrust: nächste LB II zwingend als erstes in Block 3 —
+vor RDL, nicht danach. 3×12 @ 50kg.
+Core nächste Session non-negotiable.
+Pull-ups 1×5 strict post-session auf Reise-Fatigue —
+stärkeres Signal als pre-session. Nächstes UB: 3×6 strict testen.
+---
 ---
 DATE: 02.08.2026
 SESSION: Lower Body I
