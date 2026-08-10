@@ -72,6 +72,23 @@
 
 
 
+
+---
+DATE: 09.08.2026
+SESSION: Surf 
+OURA: 61 | CYCLE DAY: 25
+
+DURATION: 1h
+CONDITIONS: Wavepool
+INTENSITY: moderate
+POP-UP QUALITY: good
+ACTIVE CALORIES: 188 kcal
+
+FLAGS: none
+NOTES: Zweite Session gleicher Tag. Doppel-Surf wie geplant trotz
+Oura 61 und Fatigue — gut durchgezogen.
+TOTAL AKTIVE KCAL HEUTE: 376 kcal (2×188)
+---
 ---
 DATE: 08.08.2026
 SESSION: Upper Body
