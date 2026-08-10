@@ -95,26 +95,15 @@
 
 
 ---
-Alles klar — kein Pull-up Test, morgen Doppel-Surf. Passt zusammen, sinnvoll.
-
-**Für nächstes LB I relevant:** 2 Surf-Sessions morgen → Surf-Regel für das übernächste LB II im Blick behalten.
-
----
-
-Hier der Log-Eintrag:
-
----
-
-```
 DATE: 08.08.2026
 SESSION: Upper Body
-OURA: 76 | CYCLE DAY: 25
+OURA: 76 | CYCLE DAY: 24
 
 WARM-UP
 Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
 
 PULL-UP TEST
-Skipped — CD25 + Oura 76 + 6h Schlaf. Nächstes UB: 3×6 strict testen.
+Skipped — CD24 + Oura 76 + 6h Schlaf. Nächstes UB: 3×6 strict testen.
 
 BLOCK 1
 Cable Row: 3×10 @ 41kg — kein 42.5kg verfügbar, auf 41kg gerundet. Clean.
@@ -124,9 +113,9 @@ BLOCK 2
 OHP: 8×7.5kg (ramp), 6×10kg (ramp), 2×10 @ 12.5kg — Set 1 clean beide
 Seiten. Set 2 links Push-press Reps 8–10. 3. Satz gestrichen —
 CD25/Schlafmangel, kein Gewinn.
-Left isolation finisher: 1×6 @ 10kg, 3s eccentric
-Lat Pull: 3×8 @ 45kg — as prescribed. Nicht auf 3×10 gepusht —
-6h Schlaf + frühe Session + CD25.
+Left isolation finisher: 1×6 @ 10kg, 3s eccentric skipped
+Lat Pull: 3×8 @ 45kg — Nicht auf 3×10 gepusht 
+6h Schlaf + frühe Session + CD24.
 
 CORE BLOCK
 Pallof Press: 3×12/Seite @ medium band
@@ -134,8 +123,8 @@ Dead Bug: 3×12 @ 10kg
 Plank: GESTRICHEN — Zeit/Fatigue
 
 RPE: 7
-DURATION: —
-FLAGS: CD25 + Oura 76 + 6h Schlaf + frühe Session — dreifach suboptimal.
+DURATION: 60 min
+FLAGS: CD24 + Oura 76 + 6h Schlaf + frühe Session — dreifach suboptimal.
 Session korrekt autoreguliert: OHP auf 2 Sätze reduziert, Lat Pull auf
 8 Reps gehalten, Pull-up Test gestrichen. Kein Rückschritt — schlechte
 Bedingungen.
@@ -147,16 +136,12 @@ Lat Pull 3×8 @ 45kg — nächstes UB: nochmal 3×8 @ 45kg, dann auf
 OHP 2×10 @ 12.5kg — links noch nicht stabil unter Fatigue. Bleibt bei
 12.5kg, Ziel 3×10 clean beide Seiten. Isolation Finisher non-negotiable.
 Plank nächstes UB wieder rein.
-Pull-ups nächstes UB: 3×6 strict testen (frisch, nicht CD25).
-Surf-Regel: morgen Doppel-Surf → nächstes LB II Block 3 beobachten.
-```
+Pull-ups nächstes UB: 3×6 strict testen (frisch, nicht CD24).
+
 
 ---
 
-**Key Lifts Table Row:**
-```
-```
----
+
 ---
 DATE: 06.08.2026
 SESSION: Lower Body II
