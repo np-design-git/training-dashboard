@@ -73,6 +73,51 @@
 
 
 
+
+---
+DATE: 12.08.2026
+SESSION: Lower Body I
+OURA: 76 | CYCLE DAY: 28
+
+BLOCK 1
+Deadlift: 25kg×8 (ramp), 35kg×6 (ramp), 3×10 @ 50kg — leicht und
+kontrolliert, deutlich unter RPE 8. CD28 kein Performancehindernis.
+Squat Jumps (rotation): 3×10 @ BW — kein Problem
+
+BLOCK 2
+SL-DL: 3×8 @ 2×10kg — Grip-Umstieg von einer 17.5kg DB, Rep-Reset.
+As prescribed.
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat (band): 3×10 @ 20kg — as prescribed
+Machine Leg Curl: 3×8 @ 27.5kg — Eccentric 3s, as prescribed
+
+CORE BLOCK
+Back Extensions: ERSETZT durch Plank — eigenständige Entscheidung
+(Rücken durch Surf vorbelastet — korrekt autoreguliert).
+Plank: 2×60s @ BW
+HLR: 2×10 @ BW — challenging aber sauber
+
+FINISHER
+Pull-ups: 1×4 strict + 1 partial — Grip + Core-Fatigue nach 90min.
+Finisher-Kontext, kein Rückschritt.
+
+RPE: 7–8
+DURATION: 90 min
+FLAGS: CD28 late luteal — RPE ceiling 8 eingehalten. Deadlift
+50kg×10 deutlich unter Ceiling — positives Signal, kein CD-Effekt
+sichtbar. Back Extensions autoreguliert durch Plank ersetzt.
+NOTES:
+Deadlift 3×10 @ 50kg leicht — nächste LB I: 3×12 @ 50kg.
+SL-DL 3×8 @ 2×10kg — nächste LB I: 3×10 @ 2×10kg.
+Spanish Squat 3×10 @ 20kg — nächste LB I: 3×12 @ 20kg.
+Machine Leg Curl 3×8 @ 27.5kg Eccentric 3s — nächste LB I:
+3×10 @ 27.5kg.
+HLR 2×10 @ BW clean — nächste LB I: 2×12 @ BW.
+Pull-ups: 4 strict als Finisher auf Gesamt-Fatigue —
+nächstes UB: 3×6 strict testen (frisch, nicht als Finisher).
+---
 ---
 DATE: 09.08.2026
 SESSION: Surf 
