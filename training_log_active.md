@@ -77,6 +77,22 @@
 
 
 
+
+---
+DATE: 31.08.2026
+SESSION: Surf
+OURA: 92 | CYCLE DAY: 21
+
+DURATION: 1h
+CONDITIONS: Surf pool, right-hander (backside)
+INTENSITY: moderate
+POP-UP QUALITY: solid
+AVG HR: -
+ACTIVE CALORIES: 188 kcal
+
+FLAGS: none
+NOTES: Erstes Mal auf dem 5'7" / 24.6L Board — stabil gepaddelt und gesurft. Erfolgserlebnis: Board unter Kontrolle trotz deutlich kleinerem Volumen. Technikfokus: rechter Arm muss weiter öffnen (Backside-spezifisch).
+---
 ---
 DATE: 12.08.2026
 SESSION: Lower Body I
