@@ -80,6 +80,45 @@
 
 
 
+
+---
+DATE: 02.09.2026
+SESSION: Lower Body II
+OURA: 81 | CYCLE DAY: 21
+
+BLOCK 1
+Front Squat: 15kg×8 (ramp), 22kg×6 (ramp), 3×8 @ 35kg — selbst
+progressed (+3kg über Prescription 32kg), Rep-Reset auf 8.
+Split Lunges: 3×20 @ BW
+
+BLOCK 2
+BSS: 8kg×6 (ramp), 3×8 @ 18kg — as prescribed
+Box Jump Rotation: GESTRICHEN — Beine nach 19-Tage-Pause zu müde
+
+BLOCK 3
+RDL: 30kg×8 (ramp), 37.5kg×6 (ramp), 3×8 @ 50kg — Gewichtssprung
+(+5kg über Ziel 47.5kg). Technik OK, Grip limitierend (kein Chalk).
+Hip Thrust: NACH CORE — Maschine blockiert. 3×10 @ 50kg — as prescribed
+
+CORE BLOCK
+Pallof Press: 3×12/Seite @ medium band
+KB Twist: 3×12 @ 10kg
+Side Plank L/R: 3×45s each
+
+RPE: 8–9
+DURATION: 120 min
+FLAGS: Sequencing wieder umgekehrt (RDL vor Hip Thrust) — Maschine
+blockiert, nicht Planung. RDL Grip-Flag (kein Chalk) — Kraft und
+Technik OK. Box Jump Rotation gestrichen (Beinermüdung post-Pause).
+NOTES:
+Front Squat 3×8 @ 35kg — nächste LB II: 3×10 @ 35kg.
+BSS 3×8 @ 18kg — nächste LB II: 3×10 @ 18kg.
+RDL 3×8 @ 50kg — Chalk/Straps nächste Session. Erst 3×8 @ 50kg
+sauber mit Grip bestätigen, dann 3×10 aufbauen.
+Hip Thrust 3×10 @ 50kg — nächste LB II: 3×12 @ 50kg.
+Hip Thrust Sequencing: vor RDL einplanen — wenn Maschine blockiert,
+warten oder Alternative suchen.
+---
 ---
 DATE: 31.08.2026
 SESSION: Surf
