@@ -84,6 +84,25 @@
 
 
 
+
+---
+DATE: 14.09.2026
+SESSION: Surf
+OURA: 81 | CYCLE DAY: 6
+
+DURATION: 1h 30min
+CONDITIONS: not recorded
+INTENSITY: moderate–hard (heavy paddling)
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 283 kcal
+
+FLAGS: none
+NOTES: Viel Paddelarbeit — Lats/Rücken vorbelastet. Upper Body
+deshalb am 15.09 bewusst depriorisiert: Back Extensions durch
+Plank ersetzt, Pull-up Finisher gestrichen. LB I trotzdem
+komplett und stark durchgezogen (Deadlift 3×12 @ 50kg).
+---
 ---
 DATE: 15.09.2026
 SESSION: Lower Body I
