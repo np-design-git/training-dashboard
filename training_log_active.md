@@ -81,6 +81,52 @@
 
 
 
+
+---
+DATE: 15.09.2026
+SESSION: Lower Body I
+OURA: 90 | CYCLE DAY: 7
+
+WARM-UP
+Hip + Knee Sequence im Gym (inkl. 6kg SL Calf Raises)
+
+BLOCK 1
+Deadlift: 25kg×10 (ramp), 40kg×8 (ramp), 3×12 @ 50kg — as
+prescribed, saubere Technik. Leiter komplett.
+Squat Jumps (rotation): 3×10 @ BW
+
+BLOCK 2
+SL-DL: 3×10 @ 2×10kg — as prescribed, clean
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat (band): 3×12 @ 20kg — as prescribed, Leiter komplett
+Machine Leg Curl: 25kg×12 (ramp), 2×10 @ 32kg — selbst progressed
+(+4.5kg über Prescription 27.5kg), Eccentric 3s
+
+CORE BLOCK
+Back Extensions: ERSETZT durch Plank — Paddel-Belastung Rücken
+Plank: 2×75s @ BW — Progression von 60s
+HLR: 2×12 @ BW — as prescribed, keine Narbensensation
+
+FINISHER
+Pull-ups: GESTRICHEN — Lats vorbelastet durch Surf (heavy paddling)
+
+RPE: —
+DURATION: —
+FLAGS: Post-Surf (heavy paddling) — Upper Body bewusst
+depriorisiert, Beinfokus. Back Extensions autoreguliert ersetzt.
+NOTES:
+Deadlift 3×12 @ 50kg clean — nächste LB I: 3×8 @ 52.5kg
+(Gewichtssprung, Rep-Reset). Chalk/Straps weiter nutzen.
+SL-DL 3×10 @ 2×10kg — nächste LB I: 3×12 @ 2×10kg.
+Spanish Squat 3×12 @ 20kg — nächste LB I: 3×8 @ 22.5kg.
+Leg Curl 2×10 @ 32kg — nächste LB I: 3×10 @ 32kg (alle 3 Sätze
+auf Arbeitsgewicht), dann 12 aufbauen. Eccentric 3s halten.
+Plank 2×75s — nächste LB I: 2×90s.
+HLR 2×12 — nächste LB I: 3×10 @ BW.
+Pull-ups: 3×6 strict Test nächstes frisches UB.
+---
 ---
 DATE: 02.09.2026
 SESSION: Lower Body II
