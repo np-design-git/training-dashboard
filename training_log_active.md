@@ -85,6 +85,28 @@
 
 
 
+
+---
+DATE: 12.09.2026
+SESSION: Skate
+OURA: 90 | CYCLE DAY: 4
+
+DURATION: 51min
+INTENSITY: moderate–hard — überwiegend Zone 3
+AVG HR: 126 bpm | PEAK HR: ~158 bpm
+ACTIVE CALORIES: 250 kcal
+
+ZONE SPLIT:
+Z0: 0min | Z1: 8min | Z2: 14min | Z3: 26min | Z4: 3min | Z5: 0min
+(1min keine HR-Daten)
+
+FLAGS: none
+NOTES: Kurze, aber intensive Session — Z3-dominiert mit 3min Z4,
+kaum Z0/Z1-Leerlauf. Kurzes Erholungstal ca. 19:40–19:50 (HR
+unter 110), danach progressiver Aufbau bis Peak gegen Ende.
+CD4 (Menstruation) — trotzdem guter Kreislaufreiz, keine Folgen
+für LB I am 15.09 (Deadlift 3×12 @ 50kg clean).
+---
 ---
 DATE: 14.09.2026
 SESSION: Surf
