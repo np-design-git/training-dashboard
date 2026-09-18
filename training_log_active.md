@@ -86,6 +86,23 @@
 
 
 
+
+---
+DATE: 16.09.2026
+SESSION: Skate
+OURA: 91 | CYCLE DAY: 8
+
+DURATION: 1h 19min
+INTENSITY: moderate
+AVG HR: 114 bpm | PEAK HR: ~141 bpm
+ACTIVE CALORIES: 309 kcal
+
+ZONE SPLIT (Oura):
+Z0: 3min | Z1: 18min | Z2: 49min | Z3: 8min | Z4: 0min | Z5: 0min
+
+FLAGS: none reported
+NOTES: Mostly Z2 with short Z3 peaks. Late evening session, ended 22:02, so tomorrow's Oura may be a bit lower from later sleep onset.
+---
 ---
 DATE: 12.09.2026
 SESSION: Skate
