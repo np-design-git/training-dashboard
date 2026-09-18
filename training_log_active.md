@@ -87,6 +87,22 @@
 
 
 
+
+---
+DATE: 18.09.2026
+SESSION: Surf
+OURA: 91 | CYCLE DAY: 10
+
+DURATION: 2h 
+CONDITIONS: mellow DonDon
+INTENSITY: moderate
+POP-UP QUALITY: ok
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none reported
+NOTES: Afternoon session. 377 kcal over 2h
+---
 ---
 DATE: 16.09.2026
 SESSION: Skate
