@@ -88,6 +88,59 @@
 
 
 
+
+---
+DATE: 21.09.2026
+SESSION: Upper Body
+OURA: 88 | CYCLE DAY: 13
+
+WARM-UP
+Shoulder dislocates ×10 + scap push-ups ×8 + cat-cow ×12
+(rowing skipped)
+
+BLOCK 1
+Cable Row: 25kg×8 (ramp), 32.5kg×6 (ramp), 3×10 @ 42.5kg —
+as prescribed, clean
+Push-ups: 3×12 @ BW strict flat — no step for feet-elevated
+
+PULL-UP TEST (after Block 1, not fresh)
+Set 1: 5 strict | Set 2: 3 strict — lats pre-fatigued from
+3×10 Cable Row @ 42.5kg. 3×6 target not reached; not a true
+fresh test.
+
+BLOCK 2
+Lat Pull: 30kg×8 (ramp), 35kg×6 (ramp), 3×10 @ 45kg — above
+prescription (3×8), RPE 9, pre-fatigued
+One-Arm OHP: 7.5kg×8 (ramp), 10kg×6 (ramp), 3×10 @ 12.5kg —
+left first. Set 1 clean both sides. Sets 2–3: left push press
+reps 8–10, right clean throughout. RPE 9
+Left isolation finisher: 1×6 @ 10kg, 3s eccentric
+
+CORE BLOCK
+Pallof Press: 3×12/side @ medium band, 2s hold at extension
+Dead Bug: 3×12 @ 10kg
+Plank: 1×75s — progression from 60s
+
+RPE: 8–9
+DURATION: 80 min
+FLAGS: First UB after 6 weeks (last 08.08). OHP left asymmetry
+unchanged — push press from rep 8 on sets 2–3, right clean.
+Left stuck at 12.5kg since April → protocol change.
+Pull-up test done after Block 1, not fresh.
+NOTES:
+Cable Row 3×10 @ 42.5kg clean — next UB: 3×12 @ 42.5kg.
+Lat Pull 3×10 @ 45kg RPE 9 — next UB: 3×10 @ 45kg again
+(target RPE 8), then build to 12.
+OHP stays 12.5kg. NEW RULE: no push press on the left — when
+strict fails, drop to 10kg immediately and finish 10 strict reps.
+Isolation finisher remains non-negotiable.
+Push-ups 3×12 flat — next UB: feet elevated on 2–3 plates
+(~10–15cm); if no plates, 3s eccentric + 1s bottom pause.
+Pull-ups 5 + 3 strict after Block 1 (pre-fatigued) — next UB:
+3×6 strict test directly after warm-up, before Block 1.
+Pallof 2s hold clean — keep it.
+Plank 75s — next UB: 90s.
+---
 ---
 DATE: 18.09.2026
 SESSION: Surf
