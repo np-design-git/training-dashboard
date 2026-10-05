@@ -91,6 +91,24 @@
 
 
 
+
+---
+DATE: 03.10.2026
+SESSION: Skate
+OURA: 85 | CYCLE DAY: 25
+
+DURATION: 54 min 
+CONDITIONS: not recorded
+INTENSITY: moderate
+AVG HR: 118 bpm | PEAK HR: ~148 bpm
+ACTIVE CALORIES: 230 kcal
+
+ZONE SPLIT (Oura):
+Z0: 2min | Z1: 11min | Z2: 29min | Z3: 12min | Z4: 0min | Z5: 0min
+
+FLAGS: none reported
+NOTES: Mostly Zone 2 (54% of session), with Z3 peaks between about 20:00 and 20:20. No Z4/Z5. Aerobic, low-fatigue load that shouldn't affect the next strength session.
+---
 ---
 DATE: 21.09.2026
 SESSION: Upper Body
