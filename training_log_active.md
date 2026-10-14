@@ -94,6 +94,22 @@
 
 
 
+
+---
+DATE: 10.10.2026
+SESSION: Surf
+OURA: 82 | CYCLE DAY: 5
+
+DURATION: 1h30
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 283 kcal
+
+FLAGS: none
+NOTES: ~189 kcal/h
+---
 ---
 DATE: 07.10.2026
 SESSION: Surf
