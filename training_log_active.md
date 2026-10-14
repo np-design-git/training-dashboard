@@ -95,6 +95,22 @@
 
 
 
+
+---
+DATE: 12.10.2026
+SESSION: Surf
+OURA: 89 | CYCLE DAY: 7
+
+DURATION: 1h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 188 kcal
+
+FLAGS: none
+NOTES: Gerupuk Bay. GPS 3.93 km @ 3.9 km/h avg. The straight-line track suggests the boat transfer to the outer break is included, so this isn't paddle distance. ~188 kcal/h.
+---
 ---
 DATE: 10.10.2026
 SESSION: Surf
