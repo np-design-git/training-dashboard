@@ -93,6 +93,22 @@
 
 
 
+
+---
+DATE: 07.10.2026
+SESSION: Surf
+OURA: 85 | CYCLE DAY: 2
+
+DURATION: 2h
+CONDITIONS: not recorded
+INTENSITY: moderate
+POP-UP QUALITY: not recorded
+AVG HR: not recorded
+ACTIVE CALORIES: 377 kcal
+
+FLAGS: none
+NOTES: Longest session of the week (Oura weekly bar peak). ~189 kcal/h. Route not available.
+---
 ---
 DATE: 06.10.2026
 SESSION: Skate
