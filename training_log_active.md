@@ -92,6 +92,21 @@
 
 
 
+
+---
+DATE: 06.10.2026
+SESSION: Skate
+OURA: 82 | CYCLE DAY: 1
+
+DURATION: 17 min
+CONDITIONS: not recorded
+INTENSITY: easy–moderate
+AVG HR: 110 bpm | PEAK HR: ~136 bpm
+ACTIVE CALORIES: 79 kcal
+
+FLAGS: none
+NOTES: Zones Z0 1min | Z1 10min | Z2 3min | Z3 3min | Z4–5 0min. HR climbed steadily through the session and peaked in the last ~5 min (18:33–18:37). Short session, mostly Z1. Route not available.
+---
 ---
 DATE: 03.10.2026
 SESSION: Skate
