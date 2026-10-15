@@ -96,6 +96,17 @@
 
 
 
+
+---
+DATE: 15.10.2026
+SESSION: Surf
+OURA: 88 | CYCLE DAY: 10
+
+DURATION: 1h30
+
+FLAGS: none
+NOTES: Morning session, 10:00.
+---
 ---
 DATE: 12.10.2026
 SESSION: Surf
