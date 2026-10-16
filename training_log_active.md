@@ -97,6 +97,18 @@
 
 
 
+
+---
+DATE: 16.10.2026
+SESSION: Surf
+OURA: 80 | CYCLE DAY: 11
+
+SPOT: Are Guling
+DURATION: 2h
+
+FLAGS: none
+NOTES: Good conditions. Mid tide rising (1.2–1.9m), swell 0.9–1.4m, energy 400–500kJ. Pop-up stable. Bottom turn: reach further forward, open the leading shoulder, get lower.
+---
 ---
 DATE: 15.10.2026
 SESSION: Surf
