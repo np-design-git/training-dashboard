@@ -98,6 +98,56 @@
 
 
 
+
+---
+DATE: 17.10.2026
+SESSION: Lower Body II
+OURA: 83 | CYCLE DAY: 12
+
+WARM-UP
+Hip + knee sequence at gym + 5 min cycling
+
+BLOCK 1
+Front Squat: 15kg×8 (ramp), 22kg×6 (ramp), 3×8 @ 35kg — gap
+rule baseline. Deep, stable upper body, good technique.
+Split Lunges: SKIPPED
+
+BLOCK 2
+BSS: 3×8 @ 2×10kg — self-progressed (+2kg over prescription
+18kg), two DBs
+Box Jump Rotation: SKIPPED
+
+BLOCK 3
+Hip Thrust: ramp felt easy → 3×10 @ 55kg — self-progressed
+(+5kg over prescription 50kg), all sets clean
+Machine Leg Curl (PRONE, different machine): 3×8 @ 12kg/leg
+unilateral, partial ROM — stop ~10–15° before full extension
+RDL: SKIPPED — session ended, quality over volume
+
+CORE BLOCK: SKIPPED
+
+PULL-UPS (spread through session)
+3 / 5 / 5 strict — sets 2–3 best technique so far.
+26 days since last UB.
+
+RPE: 7–8
+DURATION: 90 min
+FLAGS: First LB II after 45 days (last 02.09). Right lateral knee
+pain at full extension on prone leg curl — resolved by stopping
+short of lockout. Monitor 48h.
+NOTES:
+Front Squat 3×8 @ 35kg — next LB II: 3×10 @ 35kg.
+BSS 3×8 @ 2×10kg — next LB II: 3×10 @ 2×10kg.
+Hip Thrust 3×10 @ 55kg clean — near-term target (55×8) exceeded.
+Next LB II: 3×12 @ 55kg.
+Leg Curl prone 3×8 @ 12kg/leg partial ROM (~75% of seated 32kg)
+— separate line. Next prone session: 3×10 @ 12kg/leg, same ROM.
+Seated stays primary when available: 3×10 @ 32kg.
+RDL carried forward — next LB II: 3×8 @ 50kg with chalk.
+Core skipped — next session non-negotiable.
+Pull-ups 2×5 strict within LB session, cleanest technique to
+date — next UB: 3×6 strict, first exercise after warm-up.
+---
 ---
 DATE: 16.10.2026
 SESSION: Surf
