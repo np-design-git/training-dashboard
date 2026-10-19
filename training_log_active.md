@@ -101,6 +101,18 @@
 
 
 
+
+---
+DATE: 18.10.2026
+SESSION: Surf
+OURA: 86 | CYCLE DAY: 13
+
+SPOT: Are Guling
+DURATION: 1.75h
+
+FLAGS: none
+NOTES: Late-afternoon session (16:45). Inconsistent, soft waves. Tide falling 1.6→1.4m, swell 1.2–1.5m, energy 400–500 kJ. Below expectations. Pop-up decent.
+---
 ---
 DATE: 17.10.2026
 SESSION: Lower Body II
