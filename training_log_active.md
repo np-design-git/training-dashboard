@@ -102,6 +102,45 @@
 
 
 
+
+---
+DATE: 20.10.2026
+SESSION: Lower Body Complementary II
+OURA: 88 | CYCLE DAY: 15
+
+PAIR 1
+Cable Kickback: 3×12/side @ 12.5kg — forward lean 30–45°
+Pull-ups: 2 sets — 5 / 4 strict
+
+PAIR 2
+Seated Leg Curl: 3×10 @ 32kg — 3s eccentric, unilateral, foot
+slightly turned out
+Push-ups (flat): 2×12
+
+PAIR 3
+Hip Abduction Machine: 2×15 @ 27kg — 2s hold
+
+CIRCUIT
+Calf Raise (SL + DB): 3×12/side @ 10kg
+Face Pulls (band): 2×15
+Pallof Press: 2×12/side @ medium band, 2s hold
+Side Plank L/R: 2×45s each
+Knee-to-Elbow Plank: 2×8/side — Bear Bird Dog not possible
+
+RPE: 7
+DURATION: ~65 min
+FLAGS: none — right knee pain-free on leg curl with foot slightly
+turned out (keep this setup)
+NOTES:
+First Leg B session. Upper back massage earlier the same day.
+Kickback 12.5kg — well above estimate (5kg).
+Next B-2: 3×12 @ 12.5kg, last set RPE 8–9 → then 15kg.
+Seated Leg Curl 3×10 @ 32kg — shared line, next: 3×12 @ 32kg.
+Hip Abduction 2×15 @ 27kg — next B-2: last set RPE 8–9, then 30kg.
+Pull-ups 5/4 strict post-massage — next UB: 3×6 strict, fresh.
+Push-ups flat 2×12 — next: feet elevated.
+Knee-to-Elbow Plank 2×8/side replaces Bear Bird Dog for now.
+---
 ---
 DATE: 18.10.2026
 SESSION: Surf
