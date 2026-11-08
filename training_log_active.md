@@ -104,6 +104,190 @@
 
 
 ---
+DATE: 07.11.2026
+SESSION: Surf
+OURA: 74 | CYCLE DAY: 8
+
+DURATION: 136 min
+NOTES: Surf camp. Oura timeline: 10:00–12:16.
+---
+---
+DATE: 06.11.2026
+SESSION: Skate
+OURA: 78 | CYCLE DAY: 7
+
+DURATION: 136 min
+NOTES: Oura timeline: 11:44–11:58 (14 min); 15:35–16:51 (76 min); 17:14–17:47 (33 min); 18:15–18:28 (13 min). Active time summed.
+---
+---
+DATE: 06.11.2026
+SESSION: Surf
+OURA: 78 | CYCLE DAY: 7
+
+DURATION: 95 min
+NOTES: Surf camp. Oura timeline: 08:21–09:56.
+---
+---
+DATE: 05.11.2026
+SESSION: Surf
+OURA: 77 | CYCLE DAY: 6
+
+DURATION: 103 min
+NOTES: Surf camp. Oura timeline: 14:33–16:16.
+---
+---
+DATE: 05.11.2026
+SESSION: Surf
+OURA: 77 | CYCLE DAY: 6
+
+DURATION: 96 min
+NOTES: Surf camp. Oura timeline: 06:20–07:56.
+---
+---
+DATE: 04.11.2026
+SESSION: Surf
+OURA: 85 | CYCLE DAY: 5
+
+DURATION: 60 min
+NOTES: Surf camp. Oura timeline: 16:30–17:30.
+---
+---
+DATE: 04.11.2026
+SESSION: Surf
+OURA: 85 | CYCLE DAY: 5
+
+DURATION: 86 min
+NOTES: Surf camp. Oura timeline: 08:26–09:52.
+---
+---
+DATE: 03.11.2026
+SESSION: Surf
+OURA: 75 | CYCLE DAY: 4
+
+DURATION: 92 min
+NOTES: Surf camp. Oura timeline: 11:24–12:56.
+---
+---
+DATE: 02.11.2026
+SESSION: Surf
+OURA: 83 | CYCLE DAY: 3
+
+DURATION: 87 min
+NOTES: Surf camp. Oura timeline: 10:35–12:02.
+---
+---
+DATE: 01.11.2026
+SESSION: Surf
+OURA: 81 | CYCLE DAY: 2
+
+DURATION: 60 min
+NOTES: Surf camp. Oura timeline: 15:30–16:30.
+---
+---
+DATE: 01.11.2026
+SESSION: Surf
+OURA: 81 | CYCLE DAY: 2
+
+DURATION: 60 min
+NOTES: Surf camp. Oura timeline: 11:30–12:30.
+---
+---
+DATE: 31.10.2026
+SESSION: Surf
+OURA: 79 | CYCLE DAY: 1
+
+DURATION: 120 min
+NOTES: Surf camp. Oura timeline: 14:15–16:15.
+---
+---
+DATE: 31.10.2026
+SESSION: Skate
+OURA: 79 | CYCLE DAY: 1
+
+DURATION: 52 min
+NOTES: Oura timeline: 10:55–11:16 (21 min); 11:39–12:10 (31 min). Active time summed.
+---
+---
+DATE: 30.10.2026
+SESSION: Surf
+OURA: 78 | CYCLE DAY: 25
+
+DURATION: 90 min
+NOTES: Surf camp. Oura timeline: 13:30–15:00.
+---
+---
+DATE: 30.10.2026
+SESSION: Surf
+OURA: 78 | CYCLE DAY: 25
+
+DURATION: 120 min
+NOTES: Surf camp. Oura timeline: 09:00–11:00.
+---
+---
+DATE: 29.10.2026
+SESSION: Surf
+OURA: 73 | CYCLE DAY: 24
+
+DURATION: 120 min
+NOTES: Surf camp. Oura timeline: 11:30–13:30.
+---
+---
+DATE: 28.10.2026
+SESSION: Surf
+OURA: 73 | CYCLE DAY: 23
+
+DURATION: 120 min
+NOTES: Surf camp. Oura timeline: 13:15–15:15.
+---
+---
+DATE: 28.10.2026
+SESSION: Surf
+OURA: 73 | CYCLE DAY: 23
+
+DURATION: 120 min
+NOTES: Surf camp. Oura timeline: 09:15–11:15.
+---
+---
+DATE: 25.10.2026
+SESSION: Surf
+OURA: 74 | CYCLE DAY: 20
+
+DURATION: 120 min
+NOTES: Oura timeline: 11:30–13:30.
+---
+---
+DATE: 24.10.2026
+SESSION: Skate
+OURA: 84 | CYCLE DAY: 19
+
+DURATION: 59 min
+NOTES: Oura timeline: 18:56–19:55 (59 min). Active time summed.
+---
+---
+DATE: 22.10.2026
+SESSION: Surf
+OURA: 76 | CYCLE DAY: 17
+
+DURATION: 120 min
+NOTES: Oura timeline: 08:30–10:30.
+---
+---
+DATE: 21.10.2026
+SESSION: Skate
+OURA: 89 | CYCLE DAY: 16
+
+DURATION: 79 min
+NOTES: Oura timeline: 18:49–20:08 (79 min). Active time summed.
+---
+---
+DATE: 21.10.2026
+SESSION: Surf
+OURA: 89 | CYCLE DAY: 16
+
+DURATION: 120 min
+NOTES: Oura timeline: 09:00–11:00.
+---
+---
 DATE: 20.10.2026
 SESSION: Lower Body Complementary II
 OURA: 88 | CYCLE DAY: 15
