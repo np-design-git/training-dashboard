@@ -104,6 +104,20 @@
 
 
 ---
+DATE: 09.11.2026
+SESSION: Skate
+OURA: 85 | CYCLE DAY: 10
+
+DURATION: 42 min
+AVG HR: 108 bpm | PEAK HR: ~142 bpm
+ACTIVE CALORIES: 163 kcal
+
+ZONE SPLIT (Oura):
+Z0: 7min | Z1: 18min | Z2: 9min | Z3: 6min | Z4: 0min | Z5: 0min
+
+NOTES: Oura workout: 13:42–14:24 (42 min). Mostly Zone 1, with HR highest in the first ~15 min. Cardio load 29. No HR data for 2 min.
+---
+---
 DATE: 07.11.2026
 SESSION: Surf
 OURA: 74 | CYCLE DAY: 8
