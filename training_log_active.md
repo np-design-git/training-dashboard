@@ -13,6 +13,8 @@
 | Date | Deadlift | SL Deadlift | Front Squat | Bulgarian Split Squat | Romanian Deadlift | Hip Thrust | OH Press (DB) | Lat Pull | Cable Row | DB Bent Row | Pull-ups | RPE |
 |------|----------|-------------|-------------|----------------------|-------------------|------------|---------------|----------|-----------|-------------|----------|-----|
 
+| 12.11.2026 | 55kg×8 | 20kg×10 | — | — | — | — | — | — | — | — | 5 strict | 7–8 |
+
 | 17.10.2026 | — | — | 35kg×8 | 20kg×8 | — | 55kg×10 | — | — | — | — | 5 strict | 7–8 |
 
 | 21.09.2026 | — | — | — | — | — | — | 12.5kg×10 | 45kg×10 | 42.5kg×10 | — | 5 strict | 8–9 |
@@ -103,6 +105,56 @@
 
 
 
+---
+DATE: 12.11.2026
+SESSION: Lower Body I
+OURA: 89 | CYCLE DAY: 13
+
+WARM-UP
+Hip + knee sequence. Felt good.
+Pull-ups: 1×5 strict test set
+
+BLOCK 1
+Deadlift: 3×8 @ 55kg (self-progressed, +2.5kg over the 52.5kg
+target)
+Squat Jumps (rotation): 3×10 @ BW
+
+BLOCK 2
+SL-DL: 3×10 @ 2×10kg (as prescribed)
+Burpee Box Jumps: 3×8 @ BW
+
+BLOCK 3
+Spanish Squat (band): 3×12 @ 20kg (as prescribed)
+Machine Leg Curl: 25kg×12 (ramp), 2×10 @ 32kg, 3s eccentric
+(as prescribed, done last after core)
+
+CORE BLOCK
+Back Extensions: SKIPPED because of recent surf volume
+Plank: 2×90s @ BW (up from 75s)
+HLR: 2×12 @ BW
+
+FINISHER
+Pull-ups: 1×5 strict test set
+
+RPE: 7–8
+DURATION: 91 min (Oura 18:22–19:53, warm-up not included)
+FLAGS: none, no pain reported. First LB I since 15.09.2026, and
+the first strength session after surf camp.
+NOTES:
+Oura HR per block:
+Block 1 17:34 min, avg 125, ~161 peak, 64 kcal, Z1 3 | Z2 7 | Z3 2 | Z4 3 min
+Block 2 23:21 min, avg 137, ~163 peak, 97 kcal, Z2 6 | Z3 4 | Z4 10 min
+Spanish Squat 7:17 min, avg 130, ~160 peak, 22 kcal, Z2 4 | Z3 1 | Z4 1 min
+Core 7:39 min, avg 116, ~141 peak, 21 kcal, Z1 1 | Z2 5 | Z3 1 min
+Leg Curl 10:20 min, avg 104, ~123 peak, 20 kcal, Z1 6 | Z2 3 min
+Total 224 kcal active.
+Deadlift 3×8 @ 55kg. Next LB I: 3×10 @ 55kg.
+SL-DL 3×10 @ 2×10kg. Next LB I: 3×12 @ 2×10kg.
+Spanish Squat 3×12 @ 20kg. Next LB I: 3×8 @ 22.5kg.
+Leg Curl 2×10 @ 32kg. Next LB I: 3×10 @ 32kg.
+Plank 2×90s. HLR 2×12. Next LB I: 3×10.
+Pull-ups 2×5 strict test sets.
+---
 ---
 DATE: 09.11.2026
 SESSION: Skate
